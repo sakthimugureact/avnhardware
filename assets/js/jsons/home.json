@@ -1,0 +1,113 @@
+{
+    "homeproducts": [
+      {
+        "id":1,
+        "product_image":"../assets/images/home1.jpg",
+        "product_title":"Piano Waterfall Kitchen Sink (30 x 18 x 9 inches) with Pull-out Mixer Faucet & RO Tap",
+        "product_rating": "★ ★ ★ ★ ★",
+        "product_price": "Rs.1499",
+        "product_buy":"Buy Now"
+      },
+      {
+        "id":2,
+        "product_image":"../assets/images/home2.jpg",
+        "product_title":"Sand Choco Quartz Double Bowl with Drainboard Kitchen Sink (45 x 20 x 9 Inches)",
+        "product_rating": "★ ★ ★ ★ ★",
+        "product_price": "Rs.4499",
+        "product_buy":"Buy Now"
+      },
+      {
+        "id":3,
+        "product_image":"../assets/images/home3.jpg",
+        "product_title":"Crystal White Double Bowl with Drainboard Kitchen Sink (45 x 20 x 9 Inches)",
+        "product_rating": "★ ★ ★ ★ ★",
+        "product_price": "Rs.3499",
+        "product_buy":"Buy Now"
+      },
+      {
+        "id":4,
+        "product_image":"../assets/images/home4.jpeg",
+        "product_title":"Choco Brown Quartz Double Bowl with Drainboard Kitchen Sink(45 x 20 x 9 Inches)",
+        "product_rating": "★ ★ ★ ★ ★",
+        "product_price": "Rs.2499",
+        "product_buy":"Buy Now"
+      }
+    ],
+    "upgradehome":[
+      {
+        "id":1,
+        "upgrade_img":"./assets/images/kitchen.jpg",
+        "title":"Kitchen"
+      },
+       {
+        "id":2,
+        "upgrade_img":"./assets/images/bathroom.jpg",
+        "title":"Bathroom"
+      },
+       {
+        "id":3,
+        "upgrade_img":"./assets/images/toilet.png",
+        "title":"Toilet"
+      }
+      ],
+      "stationery":[{
+        "id":1,
+        "productimg":"",
+        "producttitle":"Projectors",
+        "productexplore":"Explore Now"
+      },
+      {
+        "id":2,
+        "productimg":"",
+        "producttitle":"Laser Printer",
+        "productexplore":"Explore Now"
+      },
+      {
+        "id":3,
+        "productimg":"",
+        "producttitle":"Speakers",
+        "productexplore":"Explore Now"
+      }],
+      "enquiry":[{
+        "id":"1",
+        "enquiry_img":"./assets/images/businessEnquiry.png",
+        "enquiry_title":"Business Enquiry",
+        "enquiry_btn":"<a href='' id='businessformShow'>Enquiry</a>"
+      },
+      {
+        "id":"2",
+        "enquiry_img":"./assets/images/Bulkorder.png",
+        "enquiry_title":"Bulk Order <br> Enquiry",
+        "enquiry_btn":"<a href='./pages/bulkorder.html'>Enquiry</a>"
+      },
+      {
+        "id":"3",
+        "enquiry_img":"./assets/images/GST.png",
+        "enquiry_title":"GST Benefits",
+        "enquiry_btn":"<a href='./pages/gst.html'>Explore Now</a>"
+      },
+      {
+        "id":"4",
+        "enquiry_img":"./assets/images/guide.png",
+        "enquiry_title":"Buying Guides",
+        "enquiry_btn":"<a href='./pages/buyingguides.html'>Explore Now</a>"
+      }],
+      "supplies":[{
+        "id":1,
+        "supplies_img":"./assets/images/projector.png",
+        "supplies_title":"Projectors",
+        "supplies_btn":"Explore Now"
+      },
+      {
+        "id":2,
+        "supplies_img":"./assets/images/printer.png",
+        "supplies_title":"Laser Printer",
+        "supplies_btn":"Explore Now"
+      },
+      {
+        "id":3,
+        "supplies_img":"./assets/images/speaker.png",
+        "supplies_title":"Speakers",
+        "supplies_btn":"Explore Now"
+      }]
+  }
