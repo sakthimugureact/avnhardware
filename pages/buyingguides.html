@@ -23,6 +23,7 @@
       integrity="sha384-tViUnnbYAV00FLIhhi3v/dWt3Jxw4gZQcNoSCxCIFNJVCx7/D55/wXsrNIRANwdD"
       crossorigin="anonymous"
     />
+    <link rel="stylesheet" href="../assets/css/home.css">
   </head>
   <body>
     <header>
@@ -46,11 +47,11 @@
               <a href=""
                 ><h5><i class="bi bi-person-fill"></i> Login / Register</h5></a
               >
-              <a href=""
+              <a href="" id="trackpage"
                 ><h5><i class="bi bi-truck"></i>Track Order</h5></a
               >
-              <a href=""
-                ><h5><i class="bi bi-cart3"></i>Cart</h5></a
+              <a href="./addTocart.html"
+                ><h5><i class="bi bi-cart3"></i>Cart <span class="cartlength"></span></h5></a
               >
             </div>
             <div class="search-bar">
@@ -210,7 +211,73 @@
           <button type="submit" id="contactbtn">Submit</button>
         </form>
       </div>
+      <div class="feedback_container">
+        <div class="feedback_header">
+            <button class="close_dialog_button" id="close-button">
+                X
+            </button>
+        </div>
+        <div class="success_icon">
+            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20"><path d="M0 11l2-2 5 5L18 3l2 2L7 18z"/></svg>
+        </div>
+        <h2 class="message_title">Message Sent Successfully</h2>
+        <p class="message_text">Thank you! Your message has been delivered.</p>
+    </div>
 
+    <div class="track-modal">
+      <div class="modal-header">
+          <h1>Track Your Order</h1>
+          <button class="close-btn" id="closetrackDiv">×</button>
+      </div>
+      <div class="track-content">
+          <h2>Enter the Tracking Number</h2>
+          <div class="search-container">
+              <input type="text" id="trackingNumber" placeholder="Enter tracking number">
+              <button class="search-btn">Search</button>
+          </div>
+      </div>
+  </div>
+
+
+  <!-- TrackDIv -->
+  <div class="tracking-modal">
+    <div class="modal-header">
+        <h1>Tracking Details</h1>
+        <button class="close-btn" id="close-trackbtn">×</button>
+    </div>
+    <div class="tracking-timeline">
+        <div class="timeline-item" data-status="completed">
+            <div class="status-icon"></div>
+            <div class="status-line"></div>
+            <div class="status-content">
+                <h3>Confirmed</h3>
+            </div>
+        </div>
+
+        <div class="timeline-item" data-status="completed">
+            <div class="status-icon"></div>
+            <div class="status-line"></div>
+            <div class="status-content">
+                <h3>Shipped</h3>
+            </div>
+        </div>
+
+        <div class="timeline-item" data-status="active">
+            <div class="status-icon"></div>
+            <div class="status-line"></div>
+            <div class="status-content">
+                <h3>The Product(s) is in transit.</h3>
+            </div>
+        </div>
+
+        <div class="timeline-item" data-status="pending">
+            <div class="status-icon"></div>
+            <div class="status-content">
+                <h3>Delivered</h3>
+            </div>
+        </div>
+    </div>
+</div>
 
        <article class="first-container">
         <div class="bgfirst-container">
@@ -226,51 +293,51 @@
 
        <article class="second-container">
         <div class="category-grid">
-          <button class="category-button" id="led" onclick="leds()"  data-content="led">
+          <button class="category-button" id="led"   data-content="led">
               <img src="../assets/images/led.png" alt="LED Icon">
               LED
           </button>
-          <button class="category-button" id="cctv" onclick="leds()"  data-content="cctv">
+          <button class="category-button" id="cctv"  data-content="cctv">
              <img src="../assets/images/bg-2.png" alt="">
               CCTV Camera
           </button>
-          <button class="category-button" id="garden" onclick="leds()"  data-content="garden">
+          <button class="category-button" id="garden" data-content="garden">
              <img src="../assets/images/bg-3.png" alt="">
               Gardening Tools
           </button>
-          <button class="category-button" id="power" onclick="leds()"  data-content="power">
+          <button class="category-button" id="power" data-content="power">
             <img src="../assets/images/bg-4.png" alt="">
               Power Tools
           </button>
-          <button class="category-button" id="fans" onclick="leds()"  data-content="fans">
+          <button class="category-button" id="fans"  data-content="fans">
             <img src="../assets/images/bg-5.png" alt="">
               Fans
           </button>
-          <button class="category-button" id="inverter" onclick="leds()"  data-content="inverter">
+          <button class="category-button" id="inverter"  data-content="inverter">
             <img src="../assets/images/bg-6.png" alt="">
               Inverter
           </button>
-          <button class="category-button" id="hand" onclick="leds()"  data-content="hand">
+          <button class="category-button" id="hand"  data-content="hand">
             <img src="../assets/images/bg-7.png" alt="">
               Hand Tools
           </button>
-          <button class="category-button" id="safety" onclick="leds()"  data-content="safety">
+          <button class="category-button" id="safety" data-content="safety">
             <img src="../assets/images/bg-8.png" alt="">
               Safety Tools
           </button>
-          <button class="category-button" id="wire" onclick="leds()"  data-content="wire">
+          <button class="category-button" id="wire" data-content="wire">
             <img src="../assets/images/bg-9.png" alt="">
               Wire & Cables
           </button>
-          <button class="category-button" id="plumbing" onclick="leds()"  data-content="plumbing">
+          <button class="category-button" id="plumbing"  data-content="plumbing">
             <img src="../assets/images/bg-10.png" alt="">
               Plumbing
           </button>
-          <button class="category-button" id="office" onclick="leds()"  data-content="stationary">
+          <button class="category-button" id="office" data-content="stationary">
             <img src="../assets/images/bg-11.png" alt="">
               Office Stationary
           </button>
-          <button class="category-button" id="printers" onclick="leds()"  data-content="printers">
+          <button class="category-button" id="printers" data-content="printers">
             <img src="../assets/images/bg-12.png" alt="">
               Printers
           </button>
@@ -353,6 +420,7 @@
                 </div>
             </div>
     </footer>
-    <script type="module" src="../assets/js/buyingguides.js"></script>
+    <script src="../assets/js/buyingGuide/buyingguides.js"></script>
+    <script src="../assets/js/addTocart.js"></script>
   </body>
 </html>

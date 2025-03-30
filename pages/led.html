@@ -23,6 +23,7 @@
       integrity="sha384-tViUnnbYAV00FLIhhi3v/dWt3Jxw4gZQcNoSCxCIFNJVCx7/D55/wXsrNIRANwdD"
       crossorigin="anonymous"
     />
+    <link rel="stylesheet" href="../assets/css/home.css">
   </head>
   <body>
     <header>
@@ -46,11 +47,11 @@
               <a href=""
                 ><h5><i class="bi bi-person-fill"></i> Login / Register</h5></a
               >
-              <a href=""
+              <a href="" id="trackpage"
                 ><h5><i class="bi bi-truck"></i>Track Order</h5></a
               >
-              <a href=""
-                ><h5><i class="bi bi-cart3"></i>Cart</h5></a
+              <a href="./addTocart.html"
+                ><h5><i class="bi bi-cart3"></i>Cart <span class="cartlength"></span></h5></a
               >
             </div>
             <div class="search-bar">
@@ -210,6 +211,74 @@
         </form>
       </div>
 
+      <div class="feedback_container">
+        <div class="feedback_header">
+            <button class="close_dialog_button" id="close-button">
+                X
+            </button>
+        </div>
+        <div class="success_icon">
+            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20"><path d="M0 11l2-2 5 5L18 3l2 2L7 18z"/></svg>
+        </div>
+        <h2 class="message_title">Message Sent Successfully</h2>
+        <p class="message_text">Thank you! Your message has been delivered.</p>
+    </div>
+
+    <div class="track-modal">
+      <div class="modal-header">
+          <h1>Track Your Order</h1>
+          <button class="close-btn" id="closetrackDiv">×</button>
+      </div>
+      <div class="track-content">
+          <h2>Enter the Tracking Number</h2>
+          <div class="search-container">
+              <input type="text" id="trackingNumber" placeholder="Enter tracking number">
+              <button class="search-btn">Search</button>
+          </div>
+      </div>
+  </div>
+
+
+  <!-- TrackDIv -->
+  <div class="tracking-modal">
+    <div class="modal-header">
+        <h1>Tracking Details</h1>
+        <button class="close-btn" id="close-trackbtn">×</button>
+    </div>
+    <div class="tracking-timeline">
+        <div class="timeline-item" data-status="completed">
+            <div class="status-icon"></div>
+            <div class="status-line"></div>
+            <div class="status-content">
+                <h3>Confirmed</h3>
+            </div>
+        </div>
+
+        <div class="timeline-item" data-status="completed">
+            <div class="status-icon"></div>
+            <div class="status-line"></div>
+            <div class="status-content">
+                <h3>Shipped</h3>
+            </div>
+        </div>
+
+        <div class="timeline-item" data-status="active">
+            <div class="status-icon"></div>
+            <div class="status-line"></div>
+            <div class="status-content">
+                <h3>The Product(s) is in transit.</h3>
+            </div>
+        </div>
+
+        <div class="timeline-item" data-status="pending">
+            <div class="status-icon"></div>
+            <div class="status-content">
+                <h3>Delivered</h3>
+            </div>
+        </div>
+    </div>
+</div>
+
 
          <div class="container">
             
@@ -292,6 +361,6 @@
                 </div>
             </div>
     </footer>
-    <script type="module" src="../assets/js/showbuyingitems.js"></script>
+    <script src="../assets/js/buyingGuide/showbuyingitems.js"></script>
   </body>
 </html>

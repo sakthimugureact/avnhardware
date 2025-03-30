@@ -5,49 +5,56 @@
         "product_image":"../assets/images/home1.jpg",
         "product_title":"Piano Waterfall Kitchen Sink (30 x 18 x 9 inches) with Pull-out Mixer Faucet & RO Tap",
         "product_rating": "★ ★ ★ ★ ★",
-        "product_price": "Rs.1499",
-        "product_buy":"Buy Now"
+        "product_price": 1499,
+        "product_buy":"Buy Now",
+        "description":"<strong>External Product Dimensions:</strong> 1200mm x 75mm x 32mm <br> <strong>Material:</strong> Manufactured in AISI 304-Grade high-quality 1mm thick Stainless-Steel having 18% Chromium and 8% Nickel composition for non-corrosive and rust-resistant qualities. <br> <strong>Finish:</strong> Tile shower drains have a brushed matte finish that gives an invisible, unbroken, and luxurious appearance, making your bathroom décor aesthetically and naturally pleasing. <br> <strong>Package includes:</strong> Drain Cover, Tray, Cockroach Trap"
       },
       {
         "id":2,
         "product_image":"../assets/images/home2.jpg",
         "product_title":"Sand Choco Quartz Double Bowl with Drainboard Kitchen Sink (45 x 20 x 9 Inches)",
         "product_rating": "★ ★ ★ ★ ★",
-        "product_price": "Rs.4499",
-        "product_buy":"Buy Now"
+        "product_price": 4499,
+        "product_buy":"Buy Now",
+        "description":"<strong>External Product Dimensions:</strong> 1200mm x 75mm x 32mm <br> <strong>Material:</strong> Manufactured in AISI 304-Grade high-quality 1mm thick Stainless-Steel having 18% Chromium and 8% Nickel composition for non-corrosive and rust-resistant qualities. <br> <strong>Finish:</strong> Tile shower drains have a brushed matte finish that gives an invisible, unbroken, and luxurious appearance, making your bathroom décor aesthetically and naturally pleasing. <br> <strong>Package includes:</strong> Drain Cover, Tray, Cockroach Trap"
       },
       {
         "id":3,
         "product_image":"../assets/images/home3.jpg",
         "product_title":"Crystal White Double Bowl with Drainboard Kitchen Sink (45 x 20 x 9 Inches)",
         "product_rating": "★ ★ ★ ★ ★",
-        "product_price": "Rs.3499",
-        "product_buy":"Buy Now"
+        "product_price": 3499,
+        "product_buy":"Buy Now",
+         "description":"<strong>External Product Dimensions:</strong> 1200mm x 75mm x 32mm <br> <strong>Material:</strong> Manufactured in AISI 304-Grade high-quality 1mm thick Stainless-Steel having 18% Chromium and 8% Nickel composition for non-corrosive and rust-resistant qualities. <br> <strong>Finish:</strong> Tile shower drains have a brushed matte finish that gives an invisible, unbroken, and luxurious appearance, making your bathroom décor aesthetically and naturally pleasing. <br> <strong>Package includes:</strong> Drain Cover, Tray, Cockroach Trap"
       },
       {
         "id":4,
         "product_image":"../assets/images/home4.jpeg",
         "product_title":"Choco Brown Quartz Double Bowl with Drainboard Kitchen Sink(45 x 20 x 9 Inches)",
         "product_rating": "★ ★ ★ ★ ★",
-        "product_price": "Rs.2499",
-        "product_buy":"Buy Now"
+        "product_price": 2499,
+        "product_buy":"Buy Now",
+         "description":"<strong>External Product Dimensions:</strong> 1200mm x 75mm x 32mm <br> <strong>Material:</strong> Manufactured in AISI 304-Grade high-quality 1mm thick Stainless-Steel having 18% Chromium and 8% Nickel composition for non-corrosive and rust-resistant qualities. <br> <strong>Finish:</strong> Tile shower drains have a brushed matte finish that gives an invisible, unbroken, and luxurious appearance, making your bathroom décor aesthetically and naturally pleasing. <br> <strong>Package includes:</strong> Drain Cover, Tray, Cockroach Trap"
       }
     ],
     "upgradehome":[
       {
         "id":1,
         "upgrade_img":"./assets/images/kitchen.jpg",
-        "title":"Kitchen"
+        "title":"Kitchen",
+        "data":"kitchen"
       },
        {
         "id":2,
         "upgrade_img":"./assets/images/bathroom.jpg",
-        "title":"Bathroom"
+        "title":"Bathroom",
+        "data":"bathroom"
       },
        {
         "id":3,
         "upgrade_img":"./assets/images/toilet.png",
-        "title":"Toilet"
+        "title":"Toilet",
+        "data":"toilet"
       }
       ],
       "stationery":[{
@@ -96,18 +103,21 @@
         "id":1,
         "supplies_img":"./assets/images/projector.png",
         "supplies_title":"Projectors",
-        "supplies_btn":"Explore Now"
+        "supplies_btn":"Explore Now",
+        "data":"projectors"
       },
       {
         "id":2,
         "supplies_img":"./assets/images/printer.png",
         "supplies_title":"Laser Printer",
-        "supplies_btn":"Explore Now"
+        "supplies_btn":"Explore Now",
+        "data":"printers"
       },
       {
         "id":3,
         "supplies_img":"./assets/images/speaker.png",
         "supplies_title":"Speakers",
-        "supplies_btn":"Explore Now"
+        "supplies_btn":"Explore Now",
+        "data":"speakers"
       }]
   }

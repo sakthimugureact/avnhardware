@@ -14,6 +14,7 @@
     background-color: #074ca7;
     font-size: 17px;
     letter-spacing: .5px;
+   
 }
 .second-nav{
     display: flex;
@@ -50,8 +51,8 @@
     padding-top: 20px;
 }
 .second-nav .search-icon .login a i{
-    font-size: 25px;
-    padding-right: 10px;
+    font-size: 24px;
+    padding-right: 5px;
 }
 .second-nav .search-icon .search-bar #search{
     width: 70%;
@@ -66,6 +67,7 @@
     padding-left: 40px;
     font-weight: bold;
     color: black;
+    margin-bottom: 20px;
 }
 .second-nav .search-icon .search-bar #search::placeholder{
     font-weight: bold;
@@ -388,8 +390,15 @@
     width: 29%;
     position: relative;
 }
+.second-article .upgrade-list button{
+    border: none;
+    background-color: transparent;
+    outline: none;
+    cursor: pointer;
+}
+
 .second-article .upgrade-list .upgrade .upgrade-image{
-    width: 100%;
+    max-width: 100%;
     height: 400px;
     border-radius: 20px;
     filter: brightness(95%);
@@ -401,7 +410,6 @@
     transform: translate(-50%,-50%);
     font-size: 30px;
 }
-
 hr{
     height: 2px;
     background-color: black;
@@ -826,7 +834,7 @@ hr{
     z-index: 1;
     width: 45%;
     background-color: #e0ebf9;
-    height: 80vh;
+    height: auto;
     display: none;
 }
 
@@ -969,9 +977,194 @@ hr{
     margin-bottom: 0;
 }
 
+.track-modal {
+    background: #f0f5ff;
+    border-radius: 8px;
+    width: 35%;
+    max-width: 600px;
+    padding: 30px;
+    text-align: center;
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+    z-index: 1;
+    display: none;
+}
+
+.modal-header {
+    display: flex;
+    text-align: center;
+    justify-content:center;
+    align-items: center;
+    margin-bottom: 20px;
+    position: relative;
+}
+.track-modal h1 {
+    font-size: 32px;
+    
+}
+
+.track-modal .close-btn {
+    background: #0046be;
+    color: white;
+    border: none;
+    width: 30px;
+    height: 30px;
+    border-radius: 50%;
+    cursor: pointer;
+    font-size: 20px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    position: absolute;
+    right: 0;
+}
+
+.track-content h2 {
+    font-size: 24px;
+    margin-bottom: 20px;
+    text-align: center;
+}
+
+.track-modal .search-container {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    text-align: center;
+}
+
+#trackingNumber {
+    flex: 1;
+    padding: 12px;
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    font-size: 16px;
+}
+
+.track-modal .search-btn {
+    width: 30%;
+    display: block;
+    margin: auto;
+    padding: 12px 10px;
+    background: #0046be;
+    color: white;
+    border: none;
+    border-radius: 4px;
+    font-size: 16px;
+    cursor: pointer;
+    transition: background-color 0.3s;
+}
+
+.track-modal .search-btn:hover {
+    background: #003399;
+}
+
+
+
+.tracking-modal {
+    background: #f0f5ff;
+    border-radius: 8px;
+    width: 90%;
+    max-width: 500px;
+    padding: 20px;
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+    z-index: 1;
+    display: none;
+}
+
+.modal-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 30px;
+}
+
+.close-btn {
+    background: #0046be;
+    color: white;
+    border: none;
+    width: 30px;
+    height: 30px;
+    border-radius: 50%;
+    cursor: pointer;
+    font-size: 20px;
+}
+
+.tracking-timeline {
+    position: relative;
+    padding: 20px 0;
+}
+
+.timeline-item {
+    position: relative;
+    padding-left: 50px;
+    margin-bottom: 30px;
+}
+
+.status-icon {
+    position: absolute;
+    left: 0;
+    width: 24px;
+    height: 24px;
+    border-radius: 50%;
+    background: #ccc;
+    z-index: 2;
+}
+
+.status-line {
+    position: absolute;
+    left: 11px;
+    top: 24px;
+    width: 2px;
+    height: calc(100% + 6px);
+    background: #ccc;
+}
+
+.timeline-item[data-status="completed"] .status-icon {
+    background: #28a745;
+}
+
+.timeline-item[data-status="completed"] .status-line {
+    background: #28a745;
+}
+
+.timeline-item[data-status="active"] .status-icon {
+    background: #28a745;
+}
+
+.timeline-item[data-status="active"] .status-line {
+    background: #ccc;
+}
+
+.status-content {
+    padding-left: 20px;
+}
+
+.status-content h3 {
+    font-size: 16px;
+    margin-bottom: 5px;
+}
+
+.status-content p {
+    color: #666;
+    font-size: 14px;
+}
+
+
 @media (min-width:320px) and (max-width:688px) {
     .first-nav{
-        display: none;
+        display: flex;
+        justify-content: end;
+        gap: 10px;
+        padding:10px 40px 10px 0px;
+        color: white;
+        background-color: #074ca7;
+        font-size: 6px;
+        letter-spacing: .5px;
     }
     
     .second-nav{
@@ -1225,7 +1418,7 @@ hr{
 
     .product-list{
         min-width: 90%;
-        height: 480px;
+        height: auto;
         border: 1.5px solid black;
         background-color: #e0ebf9;
         border-radius: 10px;
@@ -1567,7 +1760,7 @@ hr{
     z-index: 1;
     width: 100%;
     background-color: #e0ebf9;
-    height: 40vh;
+    height: auto;
     
 }
 
@@ -1575,7 +1768,7 @@ hr{
     width: 80%;
     border: 1px solid black;
     margin: auto;
-    height: 60vh;
+    height: auto;
     margin-bottom: 50px;
     padding: 10px 10px;
 }
@@ -1638,13 +1831,23 @@ hr{
     font-weight: 700;
 }
 
+.track-modal {
+    width: 100%;
+}
 
+.track-modal h1 {
+    font-size: 22px;  
+}
+
+.track-content h2 {
+    font-size: 18px;
+}
     
 }
 
 @media (min-width:768px) and (max-width:1024px) {
     .first-nav{
-    display: none;
+    font-size: 10px;
     }
     .second-nav{
         display: flex;
@@ -1737,7 +1940,7 @@ hr{
 
     .product-list{
         min-width: 43%;
-        height: 480px;
+        height: auto;
         border: 1.5px solid black;
         background-color: #e0ebf9;
         border-radius: 10px;
@@ -1916,7 +2119,7 @@ hr{
         width: 60%;
         border: 1px solid black;
         margin: auto;
-        height: 60vh;
+        height: auto;
         margin-bottom: 50px;
         padding: 10px 30px;
     }
@@ -1980,6 +2183,17 @@ hr{
         background-color: #074ca7;
         color: white;
         font-weight: 700;
+    }
+    .track-modal {
+        width: 50%;
+    }
+    
+    .track-modal h1 {
+        font-size: 22px;  
+    }
+    
+    .track-content h2 {
+        font-size: 18px;
     }
 }
  

@@ -1,0 +1,135 @@
+{
+    "printers":[
+        {
+            "id":1,
+            "product_image":"../assets/images/printers/printer1.png",
+            "product_title":"Brother DCP-T520W All-in-One Color Ink Tank Printer, Wi-Fi, Mobile Printing for Home Users, LCD Display, 30ppm Mono & 12ppm Colour, Black",
+            "product_price": 11898,
+            "product_buy":"Buy Now"
+        },
+        {
+            "id":2,
+            "product_image":"../assets/images/printers/printer2.png",
+            "product_title":"Brother DCP-T520W All-in-One Color Ink Tank Printer, Wi-Fi, Mobile Printing for Home Users, LCD Display, 30ppm Mono & 12ppm Colour, Black",
+            "product_price": 13999,
+            "product_buy":"Buy Now"
+        },
+        {
+            "id":3,
+            "product_image":"../assets/images/printers/printer1.png",
+            "product_title":"Brother DCP-T520W All-in-One Color Ink Tank Printer, Wi-Fi, Mobile Printing for Home Users, LCD Display, 30ppm Mono & 12ppm Colour, Black",
+            "product_price": 11888,
+            "product_buy":"Buy Now"
+        }, 
+        {
+            "id":4,
+            "product_image":"../assets/images/printers/printer3.png",
+            "product_title":"Brother DCP-T520W All-in-One Color Ink Tank Printer, Wi-Fi, Mobile Printing for Home Users, LCD Display, 30ppm Mono & 12ppm Colour, Black",
+            "product_price": 15000,
+            "product_buy":"Buy Now"
+        },
+        {
+            "id":5,
+            "product_image":"../assets/images/printers/printer4.png",
+            "product_title":"Brother DCP-T520W All-in-One Color Ink Tank Printer, Wi-Fi, Mobile Printing for Home Users, LCD Display, 30ppm Mono & 12ppm Colour, Black",
+            "product_price": 12000,
+            "product_buy":"Buy Now"
+        },
+        {
+            "id":6,
+            "product_image":"../assets/images/printers/printer5.png",
+            "product_title":"Brother DCP-T520W All-in-One Color Ink Tank Printer, Wi-Fi, Mobile Printing for Home Users, LCD Display, 30ppm Mono & 12ppm Colour, Black",
+            "product_price": 19000,
+            "product_buy":"Buy Now"
+        }
+    ],
+
+    "speakers": [
+        {
+          "id": 1,
+          "product_title": "NBUZZ NBS1202 360 W Bluetooth Party Speaker  (Black, Stereo Channel)",
+          "product_image": "../assets/images/printers/speaker1.webp",
+          "product_price": 29999,
+          "product_buy": "Buy Now"
+        },
+        {
+          "id": 2,
+          "product_title": "PHILIPS TAB7007/94 Dolby Digital with Wireless subwoofer 240 W Bluetooth Soundbar  (Black, 2.1 Channel)",
+          "product_image": "../assets/images/printers/speaker2.webp",
+          "product_price": 12999,
+          "product_buy": "Buy Now"
+        },
+        {
+          "id": 3,
+          "product_title": "Mivi Play 5 W Portable Bluetooth Speaker  (Blue, Mono Channel)",
+          "product_image": "../assets/images/printers/speaker3.webp",
+          "product_price": 999,
+          "product_buy": "Buy Now"
+        },
+        {
+          "id": 4,
+          "product_title": "Eccellente Speaker with 1 Mic for Karaoke & Guitar Input, Portable upto 8 HRs Playback 40 W Bluetooth Party Speaker  (Black, 2.0 Channel)",
+          "product_image": "../assets/images/printers/speaker4.webp",
+          "product_price": 7999,
+          "product_buy": "Buy Now"
+        },
+        {
+          "id": 5,
+          "product_title": "D1Y3 60A RGB 120 W Bluetooth Home Theatre  (Black, Stereo Channel)",
+          "product_image": "../assets/images/printers/speaker5.webp",
+          "product_price": 19999,
+          "product_buy": "Buy Now"
+        },
+        {
+          "id": 6,
+          "product_title": "PHILIPS MMS8085B/94 Convertible 80 W Bluetooth Home Theatre  (Black, 2.1 Channel)",
+          "product_image": "../assets/images/printers/speaker6.webp",
+          "product_price": 24999,
+          "product_buy": "Buy Now"
+        }
+      ],
+      "projectors": [
+        {
+          "id": 1,
+          "product_title": "Egate i9 (8400 lm) Android Smart 720p Native with 1080p & 4K Support | Automatic & 4D Keystone with Netflix, Prime etc | WiFi 6 & BT, Screen Mirroring | 1GB RAM-8GB ROM Projector  (White)",
+          "product_image": "../assets/images/printers/projector1.webp",
+          "product_price": 7999,
+          "product_buy": "Buy Now"
+        },
+        {
+          "id": 2,
+          "product_title": "Egate i9 Pro-Max (12000 lm / 1 Speaker / Remote Controller) Full HD 1080p Native with 4K Ultra HD Support with 600 FC | 210-inch (534 cm) Screen | Bluetooth, AV, VGA, HDMI, SD Card, USB, AUX, inbuilt Speaker Projector  (Black)",
+          "product_image": "../assets/images/printers/projector2.webp",
+          "product_price": 10999,
+          "product_buy": "Buy Now"
+        },
+        {
+          "id": 3,
+          "product_title": "TOPPRO HY320 Mini 4K Support Native HD Android 11 WiFi 6/BT 5.0 Freestyle Auto Keystone (5000 lm / 1 Speaker / Wireless / Remote Controller) Portable Projector  (Black)",
+          "product_image": "../assets/images/printers/projector3.webp",
+          "product_price": 5099,
+          "product_buy": "Buy Now"
+        },
+        {
+          "id": 4,
+          "product_title": "Egate S9 Pro (15500 lm / 1 Speaker / Wireless / Remote Controller) Full HD 1080p Native with 4K Ultra HD Support, Auto (Keystone+Focus+Obstacle+Tilt), 2GB-32GB",
+          "product_image": "../assets/images/printers/projector4.webp",
+          "product_price": 17599,
+          "product_buy": "Buy Now"
+        },
+        {
+          "id": 5,
+          "product_title": "WZATCO Neo Fully Automatic (12600 lm / 1 Speaker / Wireless) Full HD Native 1080P, 4K HDR Android Projector for Home, (Auto Focus + Auto Keystone)",
+          "product_image": "../assets/images/printers/projector5.webp",
+          "product_price": 13100,
+          "product_buy": "Buy Now"
+        },
+        {
+          "id": 6,
+          "product_title": "Livato T5 Android 13 Full HD Support Native 720P Wifi BT 6 Auto Keystone with Miracast (5000 lm / 1 Speaker / Wireless / Remote Controller) Portable Projector  (White)",
+          "product_image": "../assets/images/printers/projector6.webp",
+          "product_price": 7999,
+          "product_buy": "Buy Now"
+        }
+      ]
+}

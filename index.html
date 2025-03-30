@@ -23,7 +23,7 @@
       integrity="sha384-tViUnnbYAV00FLIhhi3v/dWt3Jxw4gZQcNoSCxCIFNJVCx7/D55/wXsrNIRANwdD"
       crossorigin="anonymous"
     />
-  </head>
+  </head> 
   <body>
     <header>
       <nav>
@@ -43,14 +43,13 @@
           </div>
           <div class="search-icon">
             <div class="login">
-              <a href=""
+              <a href="./pages/signin.html"
                 ><h5><i class="bi bi-person-fill"></i> Login / Register</h5></a
               >
-              <a href=""
-                ><h5><i class="bi bi-truck"></i>Track Order</h5></a
+              <a href="" id="trackpage"><h5><i class="bi bi-truck"></i>Track Order</h5></a
               >
-              <a href=""
-                ><h5><i class="bi bi-cart3"></i>Cart</h5></a
+              <a href="./pages/addTocart.html";
+                ><h5><i class="bi bi-cart3"></i>Cart <span class="cartlength"></span></h5></a
               >
             </div>
             <div class="search-bar">
@@ -62,7 +61,7 @@
         <div class="third-nav">
           <ul class="menu-list">
             <li><a href="./index.html">Home</a></li>
-            <li><a href="">Brands</a></li>
+            <li><a href="./pages/brands.html">Brands</a></li>
             <li class="products"><a href="">Products</a>
                 <ul class="dropdown-product">
                     <div class="dropdown-column">
@@ -224,7 +223,61 @@
             <p class="message_text">Thank you! Your message has been delivered.</p>
         </div>
 
-       
+        <div class="track-modal">
+          <div class="modal-header">
+              <h1>Track Your Order</h1>
+              <button class="close-btn" id="closetrackDiv">×</button>
+          </div>
+          <div class="track-content">
+              <h2>Enter the Tracking Number</h2>
+              <div class="search-container">
+                  <input type="text" id="trackingNumber" placeholder="Enter tracking number">
+                  <button class="search-btn">Search</button>
+              </div>
+          </div>
+      </div>
+
+
+      <!-- TrackDIv -->
+      <div class="tracking-modal">
+        <div class="modal-header">
+            <h1>Tracking Details</h1>
+            <button class="close-btn" id="close-trackbtn">×</button>
+        </div>
+        <div class="tracking-timeline">
+            <div class="timeline-item" data-status="completed">
+                <div class="status-icon"></div>
+                <div class="status-line"></div>
+                <div class="status-content">
+                    <h3>Confirmed</h3>
+                </div>
+            </div>
+
+            <div class="timeline-item" data-status="completed">
+                <div class="status-icon"></div>
+                <div class="status-line"></div>
+                <div class="status-content">
+                    <h3>Shipped</h3>
+                </div>
+            </div>
+
+            <div class="timeline-item" data-status="active">
+                <div class="status-icon"></div>
+                <div class="status-line"></div>
+                <div class="status-content">
+                    <h3>The Product(s) is in transit.</h3>
+                </div>
+            </div>
+
+            <div class="timeline-item" data-status="pending">
+                <div class="status-icon"></div>
+                <div class="status-content">
+                    <h3>Delivered</h3>
+                </div>
+            </div>
+        </div>
+    </div>
+
 
         <div class="banner">
             <!-- <img src="./assets/images/banner-1.png" alt="" id="slide"> -->
@@ -387,5 +440,6 @@
             </div>
     </footer>
     <script type="module" src="./assets/js/home.js"></script>
+    <script src="./assets/js/addTocart.js"></script>
   </body>
 </html>

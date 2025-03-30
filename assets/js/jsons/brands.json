@@ -1,0 +1,1489 @@
+{
+    "havells":[
+        {
+            "logo":"../assets/images/brands/havells.png",
+             "fan_image":"../assets/images/brandcontent/fans.png",
+             "fan_title":"Fans",
+             "ac_image":"../assets/images/brandcontent/airconditioner.png",
+             "ac":"Air Conditioner",
+             "washing_image":"../assets/images/brandcontent/washingmachine.png",
+            "wm_title":"Washing Machine",
+            "fridge_image":"../assets/images/brandcontent/refridgerator.png",
+            "fridge_title":"Refridgerator",
+            "heater_image":"../assets/images/brandcontent/waterheater.png",
+            "heater_title":"Water Heater",
+            "fans":[
+            {
+                "id":1,
+                "product_image":"../assets/images/havells/fan1.png",
+                "product_title":"Havells 1200mm Efficiencia Prime BLDC Motor Ceiling Fan | 5 Star with Remote",
+                "product_price":1499,
+                "product_buy":"Buy Now"
+            },
+            {
+                "id":2,
+                "product_image":"../assets/images/havells/fan2.png",
+                "product_title":"Havells 1200mm Efficiencia Prime BLDC Motor Ceiling Fan | 5 Star with Remote ",
+                "product_price":3499,
+                "product_buy":"Buy Now"
+            },
+            {
+                "id":3,
+                "product_image":"../assets/images/havells/fan3.png",
+                "product_title":"Havells Thrust 1200MM High Speed Ceiling Fan ",
+                "product_price":3499,
+                "product_buy":"Buy Now"
+            },
+            {
+                "id":4,
+                "product_image":"../assets/images/havells/fan4.png",
+                "product_title":"Havells 1200mm Efficiencia Prime BLDC Motor Ceiling Fan | 5 Star with Remote",
+                "product_price":1499,
+                "product_buy":"Buy Now"
+            }
+    ],
+    "airconditioner":[
+        {
+            "id":1,
+            "product_image":"../assets/images/havells/ac1.png",
+            "product_title":"Havells 2025 Model 1.5 Ton 5 Star Window Inverter AC - White  (CIW19SC5R35F0, Copper Condenser)",
+            "product_price":35940,
+            "product_buy":"Buy Now"
+        },
+        {
+            "id":2,
+            "product_image":"../assets/images/havells/ac2.png",
+            "product_title":"Havells 2025 Model AI Convertible 6-in-1 1.5 Ton 3 Star Split AI Dual Inverter with Faster Cooling and Energy Saving, VIRAAT Mode and Diet Mode Plus AC - White  (US-Q18JNXE, Copper Condenser)",
+            "product_price":38700,
+            "product_buy":"Buy Now"
+        },
+        {
+            "id":3,
+            "product_image":"../assets/images/havells/ac3.png",
+            "product_title":"Havells 2025 Model 1.5 Ton 5 Star Split Inverter AC with Wi-fi Connect - White  (CS-NU18AKY5WX/CU-NU18AKY5WX, Copper Condenser) ",
+            "product_price":45000,
+            "product_buy":"Buy Now"
+        },
+        {
+            "id":4,
+            "product_image":"../assets/images/havells/ac4.png",
+            "product_title":"Havells 2025 Model Bespoke AI, 5 Step Convertible 1.5 Ton 5 Star Split Inverter with Powerful cooling & Energy saving, 120% expandable AC with Wi-fi Connect - White  Copper Condenser)",
+            "product_price":57000,
+            "product_buy":"Buy Now"
+        }
+],
+"washingmachine":[
+        {
+            "id":1,
+            "product_image":"../assets/images/havells/wm1.png",
+            "product_title":"Havells TechLife 7 kg 5 Star rating Semi Automatic Top Load Washing Machine White, Black  (RMSA705NNNDW)",
+            "product_price":7890,
+            "product_buy":"Buy Now"
+        },
+        {
+            "id":2,
+            "product_image":"../assets/images/havells/wm2.png",
+            "product_title":"Havells 6.5 kg Digital Inverter Motor| 1200 RPM | Fully Automatic Front Load Washing Machine with In-built Heater Grey  (P6065FLS)",
+            "product_price":19000,
+            "product_buy":"Buy Now"
+        },
+        {
+            "id":3,
+            "product_image":"../assets/images/havells/wm3.png",
+            "product_title":"Havells 8 kg 5 Star, Smart Inverter Technology, TurboDrum, Smart Diagnosis with Soft Closing Door Fully Automatic Top Load Washing Machine Black  (T80VBMB4Z) ",
+            "product_price":18500,
+            "product_buy":"Buy Now"
+        },
+        {
+            "id":4,
+            "product_image":"../assets/images/havells/wm4.png",
+            "product_title":"Havells 8 kg 5 star, Ecobubble, Digital Inverter, Fully Automatic Top Load Washing Machine Grey  (WA80BG4441BGTL)",
+            "product_price":21000,
+            "product_buy":"Buy Now"
+        }
+],
+"fridge":[
+        {
+            "id":1,
+            "product_image":"../assets/images/havells/fridge1.png",
+            "product_title":"Havells 235 L Frost Free Double Door 2 Star Refrigerator  (Radiant Steel, NEO DF278 PRM RADIANT STEEL(2S)-TL)",
+            "product_price":21990,
+            "product_buy":"Buy Now"
+        },
+        {
+            "id":2,
+            "product_image":"../assets/images/havells/fridge2.png",
+            "product_title":"Havells 598 L Frost Free Side by Side Convertible Refrigerator with 83% Convertible Fridge SpaceDigital Control Panel360 Degree CoolingMagic Convertible ZoneExpert Inverter 3-Door  (Gold, HRT-683KG)",
+            "product_price":93000,
+            "product_buy":"Buy Now"
+        },
+        {
+            "id":3,
+            "product_image":"../assets/images/havells/fridge3.png",
+            "product_title":"Godrej 244 L Frost Free Double Door 2 Star Refrigerator with Wood Finish and Advanced Inverter Technology  (Purple 280B RI WT WD)",
+            "product_price":24300,
+            "product_buy":"Buy Now"
+        },
+        {
+            "id":4,
+            "product_image":"../assets/images/havells/fridge4.png",
+            "product_title":"Havells 550 L Frost Free French Door Bottom Mount Convertible Refrigerator with Digital Inverter  (Refined Inox, RF57A5032S9/TL)",
+            "product_price":59500,
+            "product_buy":"Buy Now"
+        }
+],
+"heater":[
+        {
+            "id":1,
+            "product_image":"../assets/images/havells/heater1.png",
+            "product_title":"Havells 15 L Storage Water Geyser (Emeta, WHITE & BLACK)",
+            "product_price":5100,
+            "product_buy":"Buy Now"
+        },
+        {
+            "id":2,
+            "product_image":"../assets/images/havells/heater2.png",
+            "product_title":"Havells 6 L Gas Water Geyser (MAJESTY DUETTO, White)",
+            "product_price":6200,
+            "product_buy":"Buy Now"
+        },
+        {
+            "id":3,
+            "product_image":"../assets/images/havells/heater3.png",
+            "product_title":"Havells 3 L Instant Water Geyser (Zio Pro, White, Gold)",
+            "product_price":3000,
+            "product_buy":"Buy Now"
+        },
+        {
+            "id":4,
+            "product_image":"../assets/images/havells/heater4.png",
+            "product_title":"Havells 25 L Storage Water Geyser (QUANTUM, WHITE & ORANGE)",
+            "product_price":12100,
+            "product_buy":"Buy Now"
+        }
+]
+        }
+    ],
+    "legrand":[
+        {
+           "logo":"../assets/images/brands/legrand.png",
+           "fan_image":"../assets/images/brandcontent/fans.png",
+           "fan_title":"Fans",
+           "ac_image":"../assets/images/brandcontent/airconditioner.png",
+           "ac":"Air Conditioner",
+           "washing_image":"../assets/images/brandcontent/washingmachine.png",
+          "wm_title":"Washing Machine",
+          "fridge_image":"../assets/images/brandcontent/refridgerator.png",
+          "fridge_title":"Refridgerator",
+          "heater_image":"../assets/images/brandcontent/waterheater.png",
+          "heater_title":"Water Heater",
+          "fans": [
+                {
+                    "id": 1,
+                    "product_image": "../assets/images/legrand/fan1.png",
+                    "product_title": "Legrand 1200mm Efficiencia Prime BLDC Motor Ceiling Fan | 5 Star with Remote",
+                    "product_price": 1499,
+                    "product_buy": "Buy Now"
+                },
+                {
+                    "id": 2,
+                    "product_image": "../assets/images/legrand/fan2.png",
+                    "product_title": "Legrand 1200mm Efficiencia Prime BLDC Motor Ceiling Fan | 5 Star with Remote ",
+                    "product_price": 3499,
+                    "product_buy": "Buy Now"
+                },
+                {
+                    "id": 3,
+                    "product_image": "../assets/images/legrand/fan3.png",
+                    "product_title": "Legrand Thrust 1200MM High Speed Ceiling Fan ",
+                    "product_price": 3499,
+                    "product_buy": "Buy Now"
+                },
+                {
+                    "id": 4,
+                    "product_image": "../assets/images/legrand/fan4.png",
+                    "product_title": "Legrand 1200mm Efficiencia Prime BLDC Motor Ceiling Fan | 5 Star with Remote",
+                    "product_price": 1499,
+                    "product_buy": "Buy Now"
+                }
+            ],
+            "airconditioner": [
+                {
+                    "id": 1,
+                    "product_image": "../assets/images/legrand/ac1.png",
+                    "product_title": "Legrand 2025 Model 1.5 Ton 5 Star Window Inverter AC - White (CIW19SC5R35F0, Copper Condenser)",
+                    "product_price": 35940,
+                    "product_buy": "Buy Now"
+                },
+                {
+                    "id": 2,
+                    "product_image": "../assets/images/legrand/ac2.png",
+                    "product_title": "Legrand 2025 Model AI Convertible 6-in-1 1.5 Ton 3 Star Split AI Dual Inverter with Faster Cooling and Energy Saving, VIRAAT Mode and Diet Mode Plus AC - White (US-Q18JNXE, Copper Condenser)",
+                    "product_price": 38700,
+                    "product_buy": "Buy Now"
+                },
+                {
+                    "id": 3,
+                    "product_image": "../assets/images/legrand/ac3.png",
+                    "product_title": "Legrand 2025 Model 1.5 Ton 5 Star Split Inverter AC with Wi-fi Connect - White (CS-NU18AKY5WX/CU-NU18AKY5WX, Copper Condenser) ",
+                    "product_price": 45000,
+                    "product_buy": "Buy Now"
+                },
+                {
+                    "id": 4,
+                    "product_image": "../assets/images/legrand/ac4.png",
+                    "product_title": "Legrand 2025 Model Bespoke AI, 5 Step Convertible 1.5 Ton 5 Star Split Inverter with Powerful cooling & Energy saving, 120% expandable AC with Wi-fi Connect - White Copper Condenser)",
+                    "product_price": 57000,
+                    "product_buy": "Buy Now"
+                }
+            ],
+            "washingmachine": [
+                {
+                    "id": 1,
+                    "product_image": "../assets/images/legrand/wm1.png",
+                    "product_title": "Legrand TechLife 7 kg 5 Star rating Semi Automatic Top Load Washing Machine White, Black (RMSA705NNNDW)",
+                    "product_price": 7890,
+                    "product_buy": "Buy Now"
+                },
+                {
+                    "id": 2,
+                    "product_image": "../assets/images/legrand/wm2.png",
+                    "product_title": "Legrand 6.5 kg Digital Inverter Motor| 1200 RPM | Fully Automatic Front Load Washing Machine with In-built Heater Grey (P6065FLS)",
+                    "product_price": 19000,
+                    "product_buy": "Buy Now"
+                },
+                {
+                    "id": 3,
+                    "product_image": "../assets/images/legrand/wm3.png",
+                    "product_title": "Legrand 8 kg 5 Star, Smart Inverter Technology, TurboDrum, Smart Diagnosis with Soft Closing Door Fully Automatic Top Load Washing Machine Black (T80VBMB4Z) ",
+                    "product_price": 18500,
+                    "product_buy": "Buy Now"
+                },
+                {
+                    "id": 4,
+                    "product_image": "../assets/images/legrand/wm4.png",
+                    "product_title": "Legrand 8 kg 5 star, Ecobubble, Digital Inverter, Fully Automatic Top Load Washing Machine Grey (WA80BG4441BGTL)",
+                    "product_price": 21000,
+                    "product_buy": "Buy Now"
+                }
+            ],
+            "fridge": [
+                {
+                    "id": 1,
+                    "product_image": "../assets/images/legrand/fridge1.png",
+                    "product_title": "Legrand 235 L Frost Free Double Door 2 Star Refrigerator (Radiant Steel, NEO DF278 PRM RADIANT STEEL(2S)-TL)",
+                    "product_price": 21990,
+                    "product_buy": "Buy Now"
+                },
+                {
+                    "id": 2,
+                    "product_image": "../assets/images/legrand/fridge2.png",
+                    "product_title": "Legrand 598 L Frost Free Side by Side Convertible Refrigerator with 83% Convertible Fridge SpaceDigital Control Panel360 Degree CoolingMagic Convertible ZoneExpert Inverter 3-Door (Gold, HRT-683KG)",
+                    "product_price": 93000,
+                    "product_buy": "Buy Now"
+                },
+                {
+                    "id": 3,
+                    "product_image": "../assets/images/legrand/fridge3.png",
+                    "product_title": "Godrej 244 L Frost Free Double Door 2 Star Refrigerator with Wood Finish and Advanced Inverter Technology (Purple 280B RI WT WD)",
+                    "product_price": 24300,
+                    "product_buy": "Buy Now"
+                },
+                {
+                    "id": 4,
+                    "product_image": "../assets/images/legrand/fridge4.png",
+                    "product_title": "Legrand 550 L Frost Free French Door Bottom Mount Convertible Refrigerator with Digital Inverter (Refined Inox, RF57A5032S9/TL)",
+                    "product_price": 59500,
+                    "product_buy": "Buy Now"
+                }
+            ],
+            "heater": [
+                {
+                    "id": 1,
+                    "product_image": "../assets/images/legrand/heater1.png",
+                    "product_title": "Legrand 15 L Storage Water Geyser (Emeta, WHITE & BLACK)",
+                    "product_price": 5100,
+                    "product_buy": "Buy Now"
+                },
+                {
+                    "id": 2,
+                    "product_image": "../assets/images/legrand/heater2.png",
+                    "product_title": "Legrand 6 L Gas Water Geyser (MAJESTY DUETTO, White)",
+                    "product_price": 6200,
+                    "product_buy": "Buy Now"
+                },
+                {
+                    "id": 3,
+                    "product_image": "../assets/images/legrand/heater3.png",
+                    "product_title": "Havells 3 L Instant Water Geyser (Zio Pro, White, Gold)",
+                    "product_price": 3000,
+                    "product_buy": "Buy Now"
+                },
+                {
+                    "id": 4,
+                    "product_image": "../assets/images/legrand/heater4.png",
+                    "product_title": "Legrand 25 L Storage Water Geyser (QUANTUM, WHITE & ORANGE)",
+                    "product_price": 12100,
+                    "product_buy": "Buy Now"
+                }
+            ]
+        }
+    ],
+    "philips":[
+        {
+           "logo":"../assets/images/brands/philips.png",
+           "fan_image":"../assets/images/brandcontent/fans.png",
+           "fan_title":"Fans",
+           "ac_image":"../assets/images/brandcontent/airconditioner.png",
+           "ac":"Air Conditioner",
+           "washing_image":"../assets/images/brandcontent/washingmachine.png",
+          "wm_title":"Washing Machine",
+          "fridge_image":"../assets/images/brandcontent/refridgerator.png",
+          "fridge_title":"Refridgerator",
+          "heater_image":"../assets/images/brandcontent/waterheater.png",
+          "heater_title":"Water Heater",
+          "fans": [
+                {
+                    "id": 1,
+                    "product_image": "../assets/images/philips/fan1.png",
+                    "product_title": "Philips 1200mm Efficiencia Prime BLDC Motor Ceiling Fan | 5 Star with Remote",
+                    "product_price": 1499,
+                    "product_buy": "Buy Now"
+                },
+                {
+                    "id": 2,
+                    "product_image": "../assets/images/philips/fan2.png",
+                    "product_title": "Philips 1200mm Efficiencia Prime BLDC Motor Ceiling Fan | 5 Star with Remote ",
+                    "product_price": 3499,
+                    "product_buy": "Buy Now"
+                },
+                {
+                    "id": 3,
+                    "product_image": "../assets/images/philips/fan3.png",
+                    "product_title": "Philips Thrust 1200MM High Speed Ceiling Fan ",
+                    "product_price": 3499,
+                    "product_buy": "Buy Now"
+                },
+                {
+                    "id": 4,
+                    "product_image": "../assets/images/philips/fan4.png",
+                    "product_title": "Philips 1200mm Efficiencia Prime BLDC Motor Ceiling Fan | 5 Star with Remote",
+                    "product_price": 1499,
+                    "product_buy": "Buy Now"
+                }
+            ],
+            "airconditioner": [
+                {
+                    "id": 1,
+                    "product_image": "../assets/images/philips/ac1.png",
+                    "product_title": "Philips 2025 Model 1.5 Ton 5 Star Window Inverter AC - White (CIW19SC5R35F0, Copper Condenser)",
+                    "product_price": 35940,
+                    "product_buy": "Buy Now"
+                },
+                {
+                    "id": 2,
+                    "product_image": "../assets/images/philips/ac2.png",
+                    "product_title": "Philips 2025 Model AI Convertible 6-in-1 1.5 Ton 3 Star Split AI Dual Inverter with Faster Cooling and Energy Saving, VIRAAT Mode and Diet Mode Plus AC - White (US-Q18JNXE, Copper Condenser)",
+                    "product_price": 38700,
+                    "product_buy": "Buy Now"
+                },
+                {
+                    "id": 3,
+                    "product_image": "../assets/images/philips/ac3.png",
+                    "product_title": "Philips 2025 Model 1.5 Ton 5 Star Split Inverter AC with Wi-fi Connect - White (CS-NU18AKY5WX/CU-NU18AKY5WX, Copper Condenser) ",
+                    "product_price": 45000,
+                    "product_buy": "Buy Now"
+                },
+                {
+                    "id": 4,
+                    "product_image": "../assets/images/philips/ac4.png",
+                    "product_title": "Philips 2025 Model Bespoke AI, 5 Step Convertible 1.5 Ton 5 Star Split Inverter with Powerful cooling & Energy saving, 120% expandable AC with Wi-fi Connect - White Copper Condenser)",
+                    "product_price":57000,
+                    "product_buy": "Buy Now"
+                }
+            ],
+            "washingmachine": [
+                {
+                    "id": 1,
+                    "product_image": "../assets/images/philips/wm1.png",
+                    "product_title": "Philips TechLife 7 kg 5 Star rating Semi Automatic Top Load Washing Machine White, Black (RMSA705NNNDW)",
+                    "product_price": 7890,
+                    "product_buy": "Buy Now"
+                },
+                {
+                    "id": 2,
+                    "product_image": "../assets/images/philips/wm2.png",
+                    "product_title": "Philips 6.5 kg Digital Inverter Motor| 1200 RPM | Fully Automatic Front Load Washing Machine with In-built Heater Grey (P6065FLS)",
+                    "product_price": 19000,
+                    "product_buy": "Buy Now"
+                },
+                {
+                    "id": 3,
+                    "product_image": "../assets/images/philips/wm3.png",
+                    "product_title": "Philips 8 kg 5 Star, Smart Inverter Technology, TurboDrum, Smart Diagnosis with Soft Closing Door Fully Automatic Top Load Washing Machine Black (T80VBMB4Z) ",
+                    "product_price": 18500,
+                    "product_buy": "Buy Now"
+                },
+                {
+                    "id": 4,
+                    "product_image": "../assets/images/philips/wm4.png",
+                    "product_title": "Philips 8 kg 5 star, Ecobubble, Digital Inverter, Fully Automatic Top Load Washing Machine Grey (WA80BG4441BGTL)",
+                    "product_price": 21000,
+                    "product_buy": "Buy Now"
+                }
+            ],
+            "fridge": [
+                {
+                    "id": 1,
+                    "product_image": "../assets/images/philips/fridge1.png",
+                    "product_title": "Philips 235 L Frost Free Double Door 2 Star Refrigerator (Radiant Steel, NEO DF278 PRM RADIANT STEEL(2S)-TL)",
+                    "product_price":21990,
+                    "product_buy": "Buy Now"
+                },
+                {
+                    "id": 2,
+                    "product_image": "../assets/images/philips/fridge2.png",
+                    "product_title": "Philips 598 L Frost Free Side by Side Convertible Refrigerator with 83% Convertible Fridge SpaceDigital Control Panel360 Degree CoolingMagic Convertible ZoneExpert Inverter 3-Door (Gold, HRT-683KG)",
+                    "product_price": 93000,
+                    "product_buy": "Buy Now"
+                },
+                {
+                    "id": 3,
+                    "product_image": "../assets/images/philips/fridge3.png",
+                    "product_title": "Godrej 244 L Frost Free Double Door 2 Star Refrigerator with Wood Finish and Advanced Inverter Technology (Purple 280B RI WT WD)",
+                    "product_price": 24300,
+                    "product_buy": "Buy Now"
+                },
+                {
+                    "id": 4,
+                    "product_image": "../assets/images/philips/fridge4.png",
+                    "product_title": "Philips 550 L Frost Free French Door Bottom Mount Convertible Refrigerator with Digital Inverter (Refined Inox, RF57A5032S9/TL)",
+                    "product_price": 59500,
+                    "product_buy": "Buy Now"
+                }
+            ],
+            "heater": [
+                {
+                    "id": 1,
+                    "product_image": "../assets/images/philips/heater1.png",
+                    "product_title": "Philips 15 L Storage Water Geyser (Emeta, WHITE & BLACK)",
+                    "product_price": 5100,
+                    "product_buy": "Buy Now"
+                },
+                {
+                    "id": 2,
+                    "product_image": "../assets/images/philips/heater2.png",
+                    "product_title": "Philips 6 L Gas Water Geyser (MAJESTY DUETTO, White)",
+                    "product_price": 6200,
+                    "product_buy": "Buy Now"
+                },
+                {
+                    "id": 3,
+                    "product_image": "../assets/images/philips/heater3.png",
+                    "product_title": "Havells 3 L Instant Water Geyser (Zio Pro, White, Gold)",
+                    "product_price": 3000,
+                    "product_buy": "Buy Now"
+                },
+                {
+                    "id": 4,
+                    "product_image": "../assets/images/philips/heater4.png",
+                    "product_title": "Philips 25 L Storage Water Geyser (QUANTUM, WHITE & ORANGE)",
+                    "product_price": 12100,
+                    "product_buy": "Buy Now"
+                }
+            ]
+        }
+    ],
+    "emerson":[
+        {
+           "logo":"../assets/images/brands/emerson.png",
+           "fan_image":"../assets/images/brandcontent/fans.png",
+           "fan_title":"Fans",
+           "ac_image":"../assets/images/brandcontent/airconditioner.png",
+           "ac":"Air Conditioner",
+           "washing_image":"../assets/images/brandcontent/washingmachine.png",
+          "wm_title":"Washing Machine",
+          "fridge_image":"../assets/images/brandcontent/refridgerator.png",
+          "fridge_title":"Refridgerator",
+          "heater_image":"../assets/images/brandcontent/waterheater.png",
+          "heater_title":"Water Heater",
+          "fans": [
+                {
+                    "id": 1,
+                    "product_image": "../assets/images/emerson/fan1.png",
+                    "product_title": "Emerson 1200mm Efficiencia Prime BLDC Motor Ceiling Fan | 5 Star with Remote",
+                    "product_price": 1499,
+                    "product_buy": "Buy Now"
+                },
+                {
+                    "id": 2,
+                    "product_image": "../assets/images/emerson/fan2.png",
+                    "product_title": "Emerson 1200mm Efficiencia Prime BLDC Motor Ceiling Fan | 5 Star with Remote ",
+                    "product_price": 3499,
+                    "product_buy": "Buy Now"
+                },
+                {
+                    "id": 3,
+                    "product_image": "../assets/images/emerson/fan3.png",
+                    "product_title": "Emerson Thrust 1200MM High Speed Ceiling Fan ",
+                    "product_price": 3499,
+                    "product_buy": "Buy Now"
+                },
+                {
+                    "id": 4,
+                    "product_image": "../assets/images/emerson/fan4.png",
+                    "product_title": "Emerson 1200mm Efficiencia Prime BLDC Motor Ceiling Fan | 5 Star with Remote",
+                    "product_price": 1499,
+                    "product_buy": "Buy Now"
+                }
+            ],
+            "airconditioner": [
+                {
+                    "id": 1,
+                    "product_image": "../assets/images/emerson/ac1.png",
+                    "product_title": "Emerson 2025 Model 1.5 Ton 5 Star Window Inverter AC - White (CIW19SC5R35F0, Copper Condenser)",
+                    "product_price": 35940,
+                    "product_buy": "Buy Now"
+                },
+                {
+                    "id": 2,
+                    "product_image": "../assets/images/emerson/ac2.png",
+                    "product_title": "Emerson 2025 Model AI Convertible 6-in-1 1.5 Ton 3 Star Split AI Dual Inverter with Faster Cooling and Energy Saving, VIRAAT Mode and Diet Mode Plus AC - White (US-Q18JNXE, Copper Condenser)",
+                    "product_price": 38700,
+                    "product_buy": "Buy Now"
+                },
+                {
+                    "id": 3,
+                    "product_image": "../assets/images/emerson/ac3.png",
+                    "product_title": "Emerson 2025 Model 1.5 Ton 5 Star Split Inverter AC with Wi-fi Connect - White (CS-NU18AKY5WX/CU-NU18AKY5WX, Copper Condenser) ",
+                    "product_price": 45000,
+                    "product_buy": "Buy Now"
+                },
+                {
+                    "id": 4,
+                    "product_image": "../assets/images/emerson/ac4.png",
+                    "product_title": "Emerson 2025 Model Bespoke AI, 5 Step Convertible 1.5 Ton 5 Star Split Inverter with Powerful cooling & Energy saving, 120% expandable AC with Wi-fi Connect - White Copper Condenser)",
+                    "product_price": 57000,
+                    "product_buy": "Buy Now"
+                }
+            ],
+            "washingmachine": [
+                {
+                    "id": 1,
+                    "product_image": "../assets/images/emerson/wm1.png",
+                    "product_title": "Emerson TechLife 7 kg 5 Star rating Semi Automatic Top Load Washing Machine White, Black (RMSA705NNNDW)",
+                    "product_price": 7890,
+                    "product_buy": "Buy Now"
+                },
+                {
+                    "id": 2,
+                    "product_image": "../assets/images/emerson/wm2.png",
+                    "product_title": "Emerson 6.5 kg Digital Inverter Motor| 1200 RPM | Fully Automatic Front Load Washing Machine with In-built Heater Grey (P6065FLS)",
+                    "product_price": 19000,
+                    "product_buy": "Buy Now"
+                },
+                {
+                    "id": 3,
+                    "product_image": "../assets/images/emerson/wm3.png",
+                    "product_title": "Emerson 8 kg 5 Star, Smart Inverter Technology, TurboDrum, Smart Diagnosis with Soft Closing Door Fully Automatic Top Load Washing Machine Black (T80VBMB4Z) ",
+                    "product_price": 18500,
+                    "product_buy": "Buy Now"
+                },
+                {
+                    "id": 4,
+                    "product_image": "../assets/images/emerson/wm4.png",
+                    "product_title": "Emerson 8 kg 5 star, Ecobubble, Digital Inverter, Fully Automatic Top Load Washing Machine Grey (WA80BG4441BGTL)",
+                    "product_price": 21000,
+                    "product_buy": "Buy Now"
+                }
+            ],
+            "fridge": [
+                {
+                    "id": 1,
+                    "product_image": "../assets/images/emerson/fridge1.png",
+                    "product_title": "Emerson 235 L Frost Free Double Door 2 Star Refrigerator (Radiant Steel, NEO DF278 PRM RADIANT STEEL(2S)-TL)",
+                    "product_price": 21990,
+                    "product_buy": "Buy Now"
+                },
+                {
+                    "id": 2,
+                    "product_image": "../assets/images/emerson/fridge2.png",
+                    "product_title": "Emerson 598 L Frost Free Side by Side Convertible Refrigerator with 83% Convertible Fridge SpaceDigital Control Panel360 Degree CoolingMagic Convertible ZoneExpert Inverter 3-Door (Gold, HRT-683KG)",
+                    "product_price": 93000,
+                    "product_buy": "Buy Now"
+                },
+                {
+                    "id": 3,
+                    "product_image": "../assets/images/emerson/fridge3.png",
+                    "product_title": "Godrej 244 L Frost Free Double Door 2 Star Refrigerator with Wood Finish and Advanced Inverter Technology (Purple 280B RI WT WD)",
+                    "product_price": 24300,
+                    "product_buy": "Buy Now"
+                },
+                {
+                    "id": 4,
+                    "product_image": "../assets/images/emerson/fridge4.png",
+                    "product_title": "Emerson 550 L Frost Free French Door Bottom Mount Convertible Refrigerator with Digital Inverter (Refined Inox, RF57A5032S9/TL)",
+                    "product_price": 59500,
+                    "product_buy": "Buy Now"
+                }
+            ],
+            "heater": [
+                {
+                    "id": 1,
+                    "product_image": "../assets/images/emerson/heater1.png",
+                    "product_title": "Emerson 15 L Storage Water Geyser (Emeta, WHITE & BLACK)",
+                    "product_price": 5100,
+                    "product_buy": "Buy Now"
+                },
+                {
+                    "id": 2,
+                    "product_image": "../assets/images/emerson/heater2.png",
+                    "product_title": "Emerson 6 L Gas Water Geyser (MAJESTY DUETTO, White)",
+                    "product_price": 6200,
+                    "product_buy": "Buy Now"
+                },
+                {
+                    "id": 3,
+                    "product_image": "../assets/images/emerson/heater3.png",
+                    "product_title": "Havells 3 L Instant Water Geyser (Zio Pro, White, Gold)",
+                    "product_price": 3000,
+                    "product_buy": "Buy Now"
+                },
+                {
+                    "id": 4,
+                    "product_image": "../assets/images/emerson/heater4.png",
+                    "product_title": "Emerson 25 L Storage Water Geyser (QUANTUM, WHITE & ORANGE)",
+                    "product_price": 12100,
+                    "product_buy": "Buy Now"
+                }
+            ]
+        }
+
+    ], 
+    "finolex":[
+        {
+           "logo":"../assets/images/brands/finolex.png",
+           "fan_image":"../assets/images/brandcontent/fans.png",
+           "fan_title":"Fans",
+           "ac_image":"../assets/images/brandcontent/airconditioner.png",
+           "ac":"Air Conditioner",
+           "washing_image":"../assets/images/brandcontent/washingmachine.png",
+          "wm_title":"Washing Machine",
+          "fridge_image":"../assets/images/brandcontent/refridgerator.png",
+          "fridge_title":"Refridgerator",
+          "heater_image":"../assets/images/brandcontent/waterheater.png",
+          "heater_title":"Water Heater",
+          "fans": [
+                {
+                    "id": 1,
+                    "product_image": "../assets/images/finolex/fan1.png",
+                    "product_title": "Finolex 1200mm Efficiencia Prime BLDC Motor Ceiling Fan | 5 Star with Remote",
+                    "product_price": 1499,
+                    "product_buy": "Buy Now"
+                },
+                {
+                    "id": 2,
+                    "product_image": "../assets/images/finolex/fan2.png",
+                    "product_title": "Finolex 1200mm Efficiencia Prime BLDC Motor Ceiling Fan | 5 Star with Remote ",
+                    "product_price": 3499,
+                    "product_buy": "Buy Now"
+                },
+                {
+                    "id": 3,
+                    "product_image": "../assets/images/finolex/fan3.png",
+                    "product_title": "Finolex Thrust 1200MM High Speed Ceiling Fan ",
+                    "product_price": 3499,
+                    "product_buy": "Buy Now"
+                },
+                {
+                    "id": 4,
+                    "product_image": "../assets/images/finolex/fan4.png",
+                    "product_title": "Finolex 1200mm Efficiencia Prime BLDC Motor Ceiling Fan | 5 Star with Remote",
+                    "product_price": 1499,
+                    "product_buy": "Buy Now"
+                }
+            ],
+            "airconditioner": [
+                {
+                    "id": 1,
+                    "product_image": "../assets/images/finolex/ac1.png",
+                    "product_title": "Finolex 2025 Model 1.5 Ton 5 Star Window Inverter AC - White (CIW19SC5R35F0, Copper Condenser)",
+                    "product_price": 35940,
+                    "product_buy": "Buy Now"
+                },
+                {
+                    "id": 2,
+                    "product_image": "../assets/images/finolex/ac2.png",
+                    "product_title": "Finolex 2025 Model AI Convertible 6-in-1 1.5 Ton 3 Star Split AI Dual Inverter with Faster Cooling and Energy Saving, VIRAAT Mode and Diet Mode Plus AC - White (US-Q18JNXE, Copper Condenser)",
+                    "product_price": 38700,
+                    "product_buy": "Buy Now"
+                },
+                {
+                    "id": 3,
+                    "product_image": "../assets/images/finolex/ac3.png",
+                    "product_title": "Finolex 2025 Model 1.5 Ton 5 Star Split Inverter AC with Wi-fi Connect - White (CS-NU18AKY5WX/CU-NU18AKY5WX, Copper Condenser) ",
+                    "product_price": 45000,
+                    "product_buy": "Buy Now"
+                },
+                {
+                    "id": 4,
+                    "product_image": "../assets/images/finolex/ac4.png",
+                    "product_title": "Finolex 2025 Model Bespoke AI, 5 Step Convertible 1.5 Ton 5 Star Split Inverter with Powerful cooling & Energy saving, 120% expandable AC with Wi-fi Connect - White Copper Condenser)",
+                    "product_price": 57000,
+                    "product_buy": "Buy Now"
+                }
+            ],
+            "washingmachine": [
+                {
+                    "id": 1,
+                    "product_image": "../assets/images/finolex/wm1.png",
+                    "product_title": "Finolex TechLife 7 kg 5 Star rating Semi Automatic Top Load Washing Machine White, Black (RMSA705NNNDW)",
+                    "product_price": 7890,
+                    "product_buy": "Buy Now"
+                },
+                {
+                    "id": 2,
+                    "product_image": "../assets/images/finolex/wm2.png",
+                    "product_title": "Finolex 6.5 kg Digital Inverter Motor| 1200 RPM | Fully Automatic Front Load Washing Machine with In-built Heater Grey (P6065FLS)",
+                    "product_price": 19000,
+                    "product_buy": "Buy Now"
+                },
+                {
+                    "id": 3,
+                    "product_image": "../assets/images/finolex/wm3.png",
+                    "product_title": "Finolex 8 kg 5 Star, Smart Inverter Technology, TurboDrum, Smart Diagnosis with Soft Closing Door Fully Automatic Top Load Washing Machine Black (T80VBMB4Z) ",
+                    "product_price": 18500,
+                    "product_buy": "Buy Now"
+                },
+                {
+                    "id": 4,
+                    "product_image": "../assets/images/finolex/wm4.png",
+                    "product_title": "Finolex 8 kg 5 star, Ecobubble, Digital Inverter, Fully Automatic Top Load Washing Machine Grey (WA80BG4441BGTL)",
+                    "product_price": 21000,
+                    "product_buy": "Buy Now"
+                }
+            ],
+            "fridge": [
+                {
+                    "id": 1,
+                    "product_image": "../assets/images/finolex/fridge1.png",
+                    "product_title": "Finolex 235 L Frost Free Double Door 2 Star Refrigerator (Radiant Steel, NEO DF278 PRM RADIANT STEEL(2S)-TL)",
+                    "product_price": 21990,
+                    "product_buy": "Buy Now"
+                },
+                {
+                    "id": 2,
+                    "product_image": "../assets/images/finolex/fridge2.png",
+                    "product_title": "Finolex 598 L Frost Free Side by Side Convertible Refrigerator with 83% Convertible Fridge SpaceDigital Control Panel360 Degree CoolingMagic Convertible ZoneExpert Inverter 3-Door (Gold, HRT-683KG)",
+                    "product_price": 93000,
+                    "product_buy": "Buy Now"
+                },
+                {
+                    "id": 3,
+                    "product_image": "../assets/images/finolex/fridge3.png",
+                    "product_title": "Godrej 244 L Frost Free Double Door 2 Star Refrigerator with Wood Finish and Advanced Inverter Technology (Purple 280B RI WT WD)",
+                    "product_price": 24300,
+                    "product_buy": "Buy Now"
+                },
+                {
+                    "id": 4,
+                    "product_image": "../assets/images/finolex/fridge4.png",
+                    "product_title": "Finolex 550 L Frost Free French Door Bottom Mount Convertible Refrigerator with Digital Inverter (Refined Inox, RF57A5032S9/TL)",
+                    "product_price": 59500,
+                    "product_buy": "Buy Now"
+                }
+            ],
+            "heater": [
+                {
+                    "id": 1,
+                    "product_image": "../assets/images/finolex/heater1.png",
+                    "product_title": "Finolex 15 L Storage Water Geyser (Emeta, WHITE & BLACK)",
+                    "product_price": 5100,
+                    "product_buy": "Buy Now"
+                },
+                {
+                    "id": 2,
+                    "product_image": "../assets/images/finolex/heater2.png",
+                    "product_title": "Finolex 6 L Gas Water Geyser (MAJESTY DUETTO, White)",
+                    "product_price": 6200,
+                    "product_buy": "Buy Now"
+                },
+                {
+                    "id": 3,
+                    "product_image": "../assets/images/finolex/heater3.png",
+                    "product_title": "Havells 3 L Instant Water Geyser (Zio Pro, White, Gold)",
+                    "product_price": 3000,
+                    "product_buy": "Buy Now"
+                },
+                {
+                    "id": 4,
+                    "product_image": "../assets/images/finolex/heater4.png",
+                    "product_title": "Finolex 25 L Storage Water Geyser (QUANTUM, WHITE & ORANGE)",
+                    "product_price": 12100,
+                    "product_buy": "Buy Now"
+                }
+            ]
+        }
+    ],
+    "leviton":[
+        {
+           "logo":"../assets/images/brands/leviton.png",
+           "fan_image":"../assets/images/brandcontent/fans.png",
+           "fan_title":"Fans",
+           "ac_image":"../assets/images/brandcontent/airconditioner.png",
+           "ac":"Air Conditioner",
+           "washing_image":"../assets/images/brandcontent/washingmachine.png",
+          "wm_title":"Washing Machine",
+          "fridge_image":"../assets/images/brandcontent/refridgerator.png",
+          "fridge_title":"Refridgerator",
+          "heater_image":"../assets/images/brandcontent/waterheater.png",
+          "heater_title":"Water Heater",
+          "fans": [
+                {
+                    "id": 1,
+                    "product_image": "../assets/images/leviton/fan1.png",
+                    "product_title": "Leviton 1200mm Efficiencia Prime BLDC Motor Ceiling Fan | 5 Star with Remote",
+                    "product_price": 1499,
+                    "product_buy": "Buy Now"
+                },
+                {
+                    "id": 2,
+                    "product_image": "../assets/images/leviton/fan2.png",
+                    "product_title": "Leviton 1200mm Efficiencia Prime BLDC Motor Ceiling Fan | 5 Star with Remote ",
+                    "product_price": 3499,
+                    "product_buy": "Buy Now"
+                },
+                {
+                    "id": 3,
+                    "product_image": "../assets/images/leviton/fan3.png",
+                    "product_title": "Leviton Thrust 1200MM High Speed Ceiling Fan ",
+                    "product_price": 3499,
+                    "product_buy": "Buy Now"
+                },
+                {
+                    "id": 4,
+                    "product_image": "../assets/images/leviton/fan4.png",
+                    "product_title": "Leviton 1200mm Efficiencia Prime BLDC Motor Ceiling Fan | 5 Star with Remote",
+                    "product_price": 1499,
+                    "product_buy": "Buy Now"
+                }
+            ],
+            "airconditioner": [
+                {
+                    "id": 1,
+                    "product_image": "../assets/images/leviton/ac1.png",
+                    "product_title": "Leviton 2025 Model 1.5 Ton 5 Star Window Inverter AC - White (CIW19SC5R35F0, Copper Condenser)",
+                    "product_price": 35940,
+                    "product_buy": "Buy Now"
+                },
+                {
+                    "id": 2,
+                    "product_image": "../assets/images/leviton/ac2.png",
+                    "product_title": "Leviton 2025 Model AI Convertible 6-in-1 1.5 Ton 3 Star Split AI Dual Inverter with Faster Cooling and Energy Saving, VIRAAT Mode and Diet Mode Plus AC - White (US-Q18JNXE, Copper Condenser)",
+                    "product_price": 38700,
+                    "product_buy": "Buy Now"
+                },
+                {
+                    "id": 3,
+                    "product_image": "../assets/images/leviton/ac3.png",
+                    "product_title": "Leviton 2025 Model 1.5 Ton 5 Star Split Inverter AC with Wi-fi Connect - White (CS-NU18AKY5WX/CU-NU18AKY5WX, Copper Condenser) ",
+                    "product_price": 45000,
+                    "product_buy": "Buy Now"
+                },
+                {
+                    "id": 4,
+                    "product_image": "../assets/images/leviton/ac4.png",
+                    "product_title": "Leviton 2025 Model Bespoke AI, 5 Step Convertible 1.5 Ton 5 Star Split Inverter with Powerful cooling & Energy saving, 120% expandable AC with Wi-fi Connect - White Copper Condenser)",
+                    "product_price": 57000,
+                    "product_buy": "Buy Now"
+                }
+            ],
+            "washingmachine": [
+                {
+                    "id": 1,
+                    "product_image": "../assets/images/leviton/wm1.png",
+                    "product_title": "Leviton TechLife 7 kg 5 Star rating Semi Automatic Top Load Washing Machine White, Black (RMSA705NNNDW)",
+                    "product_price": 7890,
+                    "product_buy": "Buy Now"
+                },
+                {
+                    "id": 2,
+                    "product_image": "../assets/images/leviton/wm2.png",
+                    "product_title": "Leviton 6.5 kg Digital Inverter Motor| 1200 RPM | Fully Automatic Front Load Washing Machine with In-built Heater Grey (P6065FLS)",
+                    "product_price": 19000,
+                    "product_buy": "Buy Now"
+                },
+                {
+                    "id": 3,
+                    "product_image": "../assets/images/leviton/wm3.png",
+                    "product_title": "Leviton 8 kg 5 Star, Smart Inverter Technology, TurboDrum, Smart Diagnosis with Soft Closing Door Fully Automatic Top Load Washing Machine Black (T80VBMB4Z) ",
+                    "product_price": 18500,
+                    "product_buy": "Buy Now"
+                },
+                {
+                    "id": 4,
+                    "product_image": "../assets/images/leviton/wm4.png",
+                    "product_title": "Leviton 8 kg 5 star, Ecobubble, Digital Inverter, Fully Automatic Top Load Washing Machine Grey (WA80BG4441BGTL)",
+                    "product_price": 21000,
+                    "product_buy": "Buy Now"
+                }
+            ],
+            "fridge": [
+                {
+                    "id": 1,
+                    "product_image": "../assets/images/leviton/fridge1.png",
+                    "product_title": "Leviton 235 L Frost Free Double Door 2 Star Refrigerator (Radiant Steel, NEO DF278 PRM RADIANT STEEL(2S)-TL)",
+                    "product_price": 21990,
+                    "product_buy": "Buy Now"
+                },
+                {
+                    "id": 2,
+                    "product_image": "../assets/images/leviton/fridge2.png",
+                    "product_title": "Leviton 598 L Frost Free Side by Side Convertible Refrigerator with 83% Convertible Fridge SpaceDigital Control Panel360 Degree CoolingMagic Convertible ZoneExpert Inverter 3-Door (Gold, HRT-683KG)",
+                    "product_price": 93000,
+                    "product_buy": "Buy Now"
+                },
+                {
+                    "id": 3,
+                    "product_image": "../assets/images/leviton/fridge3.png",
+                    "product_title": "Godrej 244 L Frost Free Double Door 2 Star Refrigerator with Wood Finish and Advanced Inverter Technology (Purple 280B RI WT WD)",
+                    "product_price": 24300,
+                    "product_buy": "Buy Now"
+                },
+                {
+                    "id": 4,
+                    "product_image": "../assets/images/leviton/fridge4.png",
+                    "product_title": "Leviton 550 L Frost Free French Door Bottom Mount Convertible Refrigerator with Digital Inverter (Refined Inox, RF57A5032S9/TL)",
+                    "product_price": 59500,
+                    "product_buy": "Buy Now"
+                }
+            ],
+            "heater": [
+                {
+                    "id": 1,
+                    "product_image": "../assets/images/leviton/heater1.png",
+                    "product_title": "Leviton 15 L Storage Water Geyser (Emeta, WHITE & BLACK)",
+                    "product_price": 5100,
+                    "product_buy": "Buy Now"
+                },
+                {
+                    "id": 2,
+                    "product_image": "../assets/images/leviton/heater2.png",
+                    "product_title": "Leviton 6 L Gas Water Geyser (MAJESTY DUETTO, White)",
+                    "product_price": 6200,
+                    "product_buy": "Buy Now"
+                },
+                {
+                    "id": 3,
+                    "product_image": "../assets/images/leviton/heater3.png",
+                    "product_title": "Havells 3 L Instant Water Geyser (Zio Pro, White, Gold)",
+                    "product_price": 3000,
+                    "product_buy": "Buy Now"
+                },
+                {
+                    "id": 4,
+                    "product_image": "../assets/images/leviton/heater4.png",
+                    "product_title": "Leviton 25 L Storage Water Geyser (QUANTUM, WHITE & ORANGE)",
+                    "product_price": 12100,
+                    "product_buy": "Buy Now"
+                }
+            ]
+        }
+    ],
+    "anchor":[
+        {
+            "logo":"../assets/images/brands/anchor.png",
+            "fan_image":"../assets/images/brandcontent/fans.png",
+            "fan_title":"Fans",
+            "ac_image":"../assets/images/brandcontent/airconditioner.png",
+            "ac":"Air Conditioner",
+            "washing_image":"../assets/images/brandcontent/washingmachine.png",
+           "wm_title":"Washing Machine",
+           "fridge_image":"../assets/images/brandcontent/refridgerator.png",
+           "fridge_title":"Refridgerator",
+           "heater_image":"../assets/images/brandcontent/waterheater.png",
+           "heater_title":"Water Heater",
+           "fans": [
+                {
+                    "id": 1,
+                    "product_image": "../assets/images/anchor/fan1.png",
+                    "product_title": "Anchor 1200mm Efficiencia Prime BLDC Motor Ceiling Fan | 5 Star with Remote",
+                    "product_price": 1499,
+                    "product_buy": "Buy Now"
+                },
+                {
+                    "id": 2,
+                    "product_image": "../assets/images/anchor/fan2.png",
+                    "product_title": "Anchor 1200mm Efficiencia Prime BLDC Motor Ceiling Fan | 5 Star with Remote ",
+                    "product_price": 3499,
+                    "product_buy": "Buy Now"
+                },
+                {
+                    "id": 3,
+                    "product_image": "../assets/images/anchor/fan3.png",
+                    "product_title": "Anchor Thrust 1200MM High Speed Ceiling Fan ",
+                    "product_price": 3499,
+                    "product_buy": "Buy Now"
+                },
+                {
+                    "id": 4,
+                    "product_image": "../assets/images/anchor/fan4.png",
+                    "product_title": "Anchor 1200mm Efficiencia Prime BLDC Motor Ceiling Fan | 5 Star with Remote",
+                    "product_price": 1499,
+                    "product_buy": "Buy Now"
+                }
+            ],
+            "airconditioner": [
+                {
+                    "id": 1,
+                    "product_image": "../assets/images/anchor/ac1.png",
+                    "product_title": "Anchor 2025 Model 1.5 Ton 5 Star Window Inverter AC - White (CIW19SC5R35F0, Copper Condenser)",
+                    "product_price": 35940,
+                    "product_buy": "Buy Now"
+                },
+                {
+                    "id": 2,
+                    "product_image": "../assets/images/anchor/ac2.png",
+                    "product_title": "Anchor 2025 Model AI Convertible 6-in-1 1.5 Ton 3 Star Split AI Dual Inverter with Faster Cooling and Energy Saving, VIRAAT Mode and Diet Mode Plus AC - White (US-Q18JNXE, Copper Condenser)",
+                    "product_price": 38700,
+                    "product_buy": "Buy Now"
+                },
+                {
+                    "id": 3,
+                    "product_image": "../assets/images/anchor/ac3.png",
+                    "product_title": "Anchor 2025 Model 1.5 Ton 5 Star Split Inverter AC with Wi-fi Connect - White (CS-NU18AKY5WX/CU-NU18AKY5WX, Copper Condenser) ",
+                    "product_price": 45000,
+                    "product_buy": "Buy Now"
+                },
+                {
+                    "id": 4,
+                    "product_image": "../assets/images/anchor/ac4.png",
+                    "product_title": "Anchor 2025 Model Bespoke AI, 5 Step Convertible 1.5 Ton 5 Star Split Inverter with Powerful cooling & Energy saving, 120% expandable AC with Wi-fi Connect - White Copper Condenser)",
+                    "product_price": 57000,
+                    "product_buy": "Buy Now"
+                }
+            ],
+            "washingmachine": [
+                {
+                    "id": 1,
+                    "product_image": "../assets/images/anchor/wm1.png",
+                    "product_title": "Anchor TechLife 7 kg 5 Star rating Semi Automatic Top Load Washing Machine White, Black (RMSA705NNNDW)",
+                    "product_price": 7890,
+                    "product_buy": "Buy Now"
+                },
+                {
+                    "id": 2,
+                    "product_image": "../assets/images/anchor/wm2.png",
+                    "product_title": "Anchor 6.5 kg Digital Inverter Motor| 1200 RPM | Fully Automatic Front Load Washing Machine with In-built Heater Grey (P6065FLS)",
+                    "product_price": 19000,
+                    "product_buy": "Buy Now"
+                },
+                {
+                    "id": 3,
+                    "product_image": "../assets/images/anchor/wm3.png",
+                    "product_title": "Anchor 8 kg 5 Star, Smart Inverter Technology, TurboDrum, Smart Diagnosis with Soft Closing Door Fully Automatic Top Load Washing Machine Black (T80VBMB4Z) ",
+                    "product_price": 18950,
+                    "product_buy": "Buy Now"
+                },
+                {
+                    "id": 4,
+                    "product_image": "../assets/images/anchor/wm4.png",
+                    "product_title": "Anchor 8 kg 5 star, Ecobubble, Digital Inverter, Fully Automatic Top Load Washing Machine Grey (WA80BG4441BGTL)",
+                    "product_price": 21000,
+                    "product_buy": "Buy Now"
+                }
+            ],
+            "fridge": [
+                {
+                    "id": 1,
+                    "product_image": "../assets/images/anchor/fridge1.png",
+                    "product_title": "Anchor 235 L Frost Free Double Door 2 Star Refrigerator (Radiant Steel, NEO DF278 PRM RADIANT STEEL(2S)-TL)",
+                    "product_price": 21990,
+                    "product_buy": "Buy Now"
+                },
+                {
+                    "id": 2,
+                    "product_image": "../assets/images/anchor/fridge2.png",
+                    "product_title": "Anchor 598 L Frost Free Side by Side Convertible Refrigerator with 83% Convertible Fridge SpaceDigital Control Panel360 Degree CoolingMagic Convertible ZoneExpert Inverter 3-Door (Gold, HRT-683KG)",
+                    "product_price": 93000,
+                    "product_buy": "Buy Now"
+                },
+                {
+                    "id": 3,
+                    "product_image": "../assets/images/anchor/fridge3.png",
+                    "product_title": "Godrej 244 L Frost Free Double Door 2 Star Refrigerator with Wood Finish and Advanced Inverter Technology (Purple 280B RI WT WD)",
+                    "product_price": 24300,
+                    "product_buy": "Buy Now"
+                },
+                {
+                    "id": 4,
+                    "product_image": "../assets/images/anchor/fridge4.png",
+                    "product_title": "Anchor 550 L Frost Free French Door Bottom Mount Convertible Refrigerator with Digital Inverter (Refined Inox, RF57A5032S9/TL)",
+                    "product_price": 59500,
+                    "product_buy": "Buy Now"
+                }
+            ],
+            "heater": [
+                {
+                    "id": 1,
+                    "product_image": "../assets/images/anchor/heater1.png",
+                    "product_title": "Anchor 15 L Storage Water Geyser (Emeta, WHITE & BLACK)",
+                    "product_price": 5100,
+                    "product_buy": "Buy Now"
+                },
+                {
+                    "id": 2,
+                    "product_image": "../assets/images/anchor/heater2.png",
+                    "product_title": "Anchor 6 L Gas Water Geyser (MAJESTY DUETTO, White)",
+                    "product_price": 6200,
+                    "product_buy": "Buy Now"
+                },
+                {
+                    "id": 3,
+                    "product_image": "../assets/images/anchor/heater3.png",
+                    "product_title": "Havells 3 L Instant Water Geyser (Zio Pro, White, Gold)",
+                    "product_price": 3000,
+                    "product_buy": "Buy Now"
+                },
+                {
+                    "id": 4,
+                    "product_image": "../assets/images/anchor/heater4.png",
+                    "product_title": "Anchor 25 L Storage Water Geyser (QUANTUM, WHITE & ORANGE)",
+                    "product_price": 12100,
+                    "product_buy": "Buy Now"
+                }
+            ]
+        }
+    ],
+    "vguard":[
+        {
+           "logo":"../assets/images/brands/vguard.png",
+           "fan_image":"../assets/images/brandcontent/fans.png",
+           "fan_title":"Fans",
+           "ac_image":"../assets/images/brandcontent/airconditioner.png",
+           "ac":"Air Conditioner",
+           "washing_image":"../assets/images/brandcontent/washingmachine.png",
+          "wm_title":"Washing Machine",
+          "fridge_image":"../assets/images/brandcontent/refridgerator.png",
+          "fridge_title":"Refridgerator",
+          "heater_image":"../assets/images/brandcontent/waterheater.png",
+          "heater_title":"Water Heater",
+          "fans": [
+                {
+                    "id": 1,
+                    "product_image": "../assets/images/vguard/fan1.png",
+                    "product_title": "V-Guard 1200mm Efficiencia Prime BLDC Motor Ceiling Fan | 5 Star with Remote",
+                    "product_price": 1499,
+                    "product_buy": "Buy Now"
+                },
+                {
+                    "id": 2,
+                    "product_image": "../assets/images/vguard/fan2.png",
+                    "product_title": "V-Guard 1200mm Efficiencia Prime BLDC Motor Ceiling Fan | 5 Star with Remote ",
+                    "product_price": 3499,
+                    "product_buy": "Buy Now"
+                },
+                {
+                    "id": 3,
+                    "product_image": "../assets/images/vguard/fan3.png",
+                    "product_title": "V-Guard Thrust 1200MM High Speed Ceiling Fan ",
+                    "product_price": 3499,
+                    "product_buy": "Buy Now"
+                },
+                {
+                    "id": 4,
+                    "product_image": "../assets/images/vguard/fan4.png",
+                    "product_title": "V-Guard 1200mm Efficiencia Prime BLDC Motor Ceiling Fan | 5 Star with Remote",
+                    "product_price": 1499,
+                    "product_buy": "Buy Now"
+                }
+            ],
+            "airconditioner": [
+                {
+                    "id": 1,
+                    "product_image": "../assets/images/vguard/ac1.png",
+                    "product_title": "V-Guard 2025 Model 1.5 Ton 5 Star Window Inverter AC - White (CIW19SC5R35F0, Copper Condenser)",
+                    "product_price": 35940,
+                    "product_buy": "Buy Now"
+                },
+                {
+                    "id": 2,
+                    "product_image": "../assets/images/vguard/ac2.png",
+                    "product_title": "V-Guard 2025 Model AI Convertible 6-in-1 1.5 Ton 3 Star Split AI Dual Inverter with Faster Cooling and Energy Saving, VIRAAT Mode and Diet Mode Plus AC - White (US-Q18JNXE, Copper Condenser)",
+                    "product_price":38700,
+                    "product_buy": "Buy Now"
+                },
+                {
+                    "id": 3,
+                    "product_image": "../assets/images/vguard/ac3.png",
+                    "product_title": "V-Guard 2025 Model 1.5 Ton 5 Star Split Inverter AC with Wi-fi Connect - White (CS-NU18AKY5WX/CU-NU18AKY5WX, Copper Condenser) ",
+                    "product_price": 45000,
+                    "product_buy": "Buy Now"
+                },
+                {
+                    "id": 4,
+                    "product_image": "../assets/images/vguard/ac4.png",
+                    "product_title": "V-Guard 2025 Model Bespoke AI, 5 Step Convertible 1.5 Ton 5 Star Split Inverter with Powerful cooling & Energy saving, 120% expandable AC with Wi-fi Connect - White Copper Condenser)",
+                    "product_price": 57000,
+                    "product_buy": "Buy Now"
+                }
+            ],
+            "washingmachine": [
+                {
+                    "id": 1,
+                    "product_image": "../assets/images/vguard/wm1.png",
+                    "product_title": "V-Guard TechLife 7 kg 5 Star rating Semi Automatic Top Load Washing Machine White, Black (RMSA705NNNDW)",
+                    "product_price": 7890,
+                    "product_buy": "Buy Now"
+                },
+                {
+                    "id": 2,
+                    "product_image": "../assets/images/vguard/wm2.png",
+                    "product_title": "V-Guard 6.5 kg Digital Inverter Motor| 1200 RPM | Fully Automatic Front Load Washing Machine with In-built Heater Grey (P6065FLS)",
+                    "product_price": 19000,
+                    "product_buy": "Buy Now"
+                },
+                {
+                    "id": 3,
+                    "product_image": "../assets/images/vguard/wm3.png",
+                    "product_title": "V-Guard 8 kg 5 Star, Smart Inverter Technology, TurboDrum, Smart Diagnosis with Soft Closing Door Fully Automatic Top Load Washing Machine Black (T80VBMB4Z) ",
+                    "product_price": 18500,
+                    "product_buy": "Buy Now"
+                },
+                {
+                    "id": 4,
+                    "product_image": "../assets/images/vguard/wm4.png",
+                    "product_title": "V-Guard 8 kg 5 star, Ecobubble, Digital Inverter, Fully Automatic Top Load Washing Machine Grey (WA80BG4441BGTL)",
+                    "product_price": 21000,
+                    "product_buy": "Buy Now"
+                }
+            ],
+            "fridge": [
+                {
+                    "id": 1,
+                    "product_image": "../assets/images/vguard/fridge1.png",
+                    "product_title": "V-Guard 235 L Frost Free Double Door 2 Star Refrigerator (Radiant Steel, NEO DF278 PRM RADIANT STEEL(2S)-TL)",
+                    "product_price": 21990,
+                    "product_buy": "Buy Now"
+                },
+                {
+                    "id": 2,
+                    "product_image": "../assets/images/vguard/fridge2.png",
+                    "product_title": "V-Guard 598 L Frost Free Side by Side Convertible Refrigerator with 83% Convertible Fridge SpaceDigital Control Panel360 Degree CoolingMagic Convertible ZoneExpert Inverter 3-Door (Gold, HRT-683KG)",
+                    "product_price": 93000,
+                    "product_buy": "Buy Now"
+                },
+                {
+                    "id": 3,
+                    "product_image": "../assets/images/vguard/fridge3.png",
+                    "product_title": "Godrej 244 L Frost Free Double Door 2 Star Refrigerator with Wood Finish and Advanced Inverter Technology (Purple 280B RI WT WD)",
+                    "product_price": 24300,
+                    "product_buy": "Buy Now"
+                },
+                {
+                    "id": 4,
+                    "product_image": "../assets/images/vguard/fridge4.png",
+                    "product_title": "V-Guard 550 L Frost Free French Door Bottom Mount Convertible Refrigerator with Digital Inverter (Refined Inox, RF57A5032S9/TL)",
+                    "product_price": 59500,
+                    "product_buy": "Buy Now"
+                }
+            ],
+            "heater": [
+                {
+                    "id": 1,
+                    "product_image": "../assets/images/vguard/heater1.png",
+                    "product_title": "V-Guard 15 L Storage Water Geyser (Emeta, WHITE & BLACK)",
+                    "product_price": 5100,
+                    "product_buy": "Buy Now"
+                },
+                {
+                    "id": 2,
+                    "product_image": "../assets/images/vguard/heater2.png",
+                    "product_title": "V-Guard 6 L Gas Water Geyser (MAJESTY DUETTO, White)",
+                    "product_price": 6200,
+                    "product_buy": "Buy Now"
+                },
+                {
+                    "id": 3,
+                    "product_image": "../assets/images/vguard/heater3.png",
+                    "product_title": "Havells 3 L Instant Water Geyser (Zio Pro, White, Gold)",
+                    "product_price": 3000,
+                    "product_buy": "Buy Now"
+                },
+                {
+                    "id": 4,
+                    "product_image": "../assets/images/vguard/heater4.png",
+                    "product_title": "V-Guard 25 L Storage Water Geyser (QUANTUM, WHITE & ORANGE)",
+                    "product_price": 12100,
+                    "product_buy": "Buy Now"
+                }
+            ]
+        }
+
+    ], 
+    "usha":[
+        {
+            "logo":"../assets/images/brands/usha.png",
+            "fan_image":"../assets/images/brandcontent/fans.png",
+            "fan_title":"Fans",
+            "ac_image":"../assets/images/brandcontent/airconditioner.png",
+            "ac":"Air Conditioner",
+            "washing_image":"../assets/images/brandcontent/washingmachine.png",
+           "wm_title":"Washing Machine",
+           "fridge_image":"../assets/images/brandcontent/refridgerator.png",
+           "fridge_title":"Refridgerator",
+           "heater_image":"../assets/images/brandcontent/waterheater.png",
+           "heater_title":"Water Heater",
+           "fans": [
+                {
+                    "id": 1,
+                    "product_image": "../assets/images/usha/fan1.png",
+                    "product_title": "Usha 1200mm Efficiencia Prime BLDC Motor Ceiling Fan | 5 Star with Remote",
+                    "product_price": 1499,
+                    "product_buy": "Buy Now"
+                },
+                {
+                    "id": 2,
+                    "product_image": "../assets/images/usha/fan2.png",
+                    "product_title": "Usha 1200mm Efficiencia Prime BLDC Motor Ceiling Fan | 5 Star with Remote ",
+                    "product_price": 3499,
+                    "product_buy": "Buy Now"
+                },
+                {
+                    "id": 3,
+                    "product_image": "../assets/images/usha/fan3.png",
+                    "product_title": "Usha Thrust 1200MM High Speed Ceiling Fan ",
+                    "product_price": 3499,
+                    "product_buy": "Buy Now"
+                },
+                {
+                    "id": 4,
+                    "product_image": "../assets/images/usha/fan4.png",
+                    "product_title": "Usha 1200mm Efficiencia Prime BLDC Motor Ceiling Fan | 5 Star with Remote",
+                    "product_price": 1499,
+                    "product_buy": "Buy Now"
+                }
+            ],
+            "airconditioner": [
+                {
+                    "id": 1,
+                    "product_image": "../assets/images/usha/ac1.png",
+                    "product_title": "Usha 2025 Model 1.5 Ton 5 Star Window Inverter AC - White (CIW19SC5R35F0, Copper Condenser)",
+                    "product_price": 35490,
+                    "product_buy": "Buy Now"
+                },
+                {
+                    "id": 2,
+                    "product_image": "../assets/images/usha/ac2.png",
+                    "product_title": "Usha 2025 Model AI Convertible 6-in-1 1.5 Ton 3 Star Split AI Dual Inverter with Faster Cooling and Energy Saving, VIRAAT Mode and Diet Mode Plus AC - White (US-Q18JNXE, Copper Condenser)",
+                    "product_price": 38700,
+                    "product_buy": "Buy Now"
+                },
+                {
+                    "id": 3,
+                    "product_image": "../assets/images/usha/ac3.png",
+                    "product_title": "Usha 2025 Model 1.5 Ton 5 Star Split Inverter AC with Wi-fi Connect - White (CS-NU18AKY5WX/CU-NU18AKY5WX, Copper Condenser) ",
+                    "product_price": 45000,
+                    "product_buy": "Buy Now"
+                },
+                {
+                    "id": 4,
+                    "product_image": "../assets/images/usha/ac4.png",
+                    "product_title": "Usha 2025 Model Bespoke AI, 5 Step Convertible 1.5 Ton 5 Star Split Inverter with Powerful cooling & Energy saving, 120% expandable AC with Wi-fi Connect - White Copper Condenser)",
+                    "product_price": 57000,
+                    "product_buy": "Buy Now"
+                }
+            ],
+            "washingmachine": [
+                {
+                    "id": 1,
+                    "product_image": "../assets/images/usha/wm1.png",
+                    "product_title": "Usha TechLife 7 kg 5 Star rating Semi Automatic Top Load Washing Machine White, Black (RMSA705NNNDW)",
+                    "product_price": 7890,
+                    "product_buy": "Buy Now"
+                },
+                {
+                    "id": 2,
+                    "product_image": "../assets/images/usha/wm2.png",
+                    "product_title": "Usha 6.5 kg Digital Inverter Motor| 1200 RPM | Fully Automatic Front Load Washing Machine with In-built Heater Grey (P6065FLS)",
+                    "product_price": 19000,
+                    "product_buy": "Buy Now"
+                },
+                {
+                    "id": 3,
+                    "product_image": "../assets/images/usha/wm3.png",
+                    "product_title": "Usha 8 kg 5 Star, Smart Inverter Technology, TurboDrum, Smart Diagnosis with Soft Closing Door Fully Automatic Top Load Washing Machine Black (T80VBMB4Z) ",
+                    "product_price": 18500,
+                    "product_buy": "Buy Now"
+                },
+                {
+                    "id": 4,
+                    "product_image": "../assets/images/usha/wm4.png",
+                    "product_title": "Usha 8 kg 5 star, Ecobubble, Digital Inverter, Fully Automatic Top Load Washing Machine Grey (WA80BG4441BGTL)",
+                    "product_price": 21000,
+                    "product_buy": "Buy Now"
+                }
+            ],
+            "fridge": [
+                {
+                    "id": 1,
+                    "product_image": "../assets/images/usha/fridge1.png",
+                    "product_title": "Usha 235 L Frost Free Double Door 2 Star Refrigerator (Radiant Steel, NEO DF278 PRM RADIANT STEEL(2S)-TL)",
+                    "product_price":21990,
+                    "product_buy": "Buy Now"
+                },
+                {
+                    "id": 2,
+                    "product_image": "../assets/images/usha/fridge2.png",
+                    "product_title": "Usha 598 L Frost Free Side by Side Convertible Refrigerator with 83% Convertible Fridge SpaceDigital Control Panel360 Degree CoolingMagic Convertible ZoneExpert Inverter 3-Door (Gold, HRT-683KG)",
+                    "product_price": 93000,
+                    "product_buy": "Buy Now"
+                },
+                {
+                    "id": 3,
+                    "product_image": "../assets/images/usha/fridge3.png",
+                    "product_title": "Godrej 244 L Frost Free Double Door 2 Star Refrigerator with Wood Finish and Advanced Inverter Technology (Purple 280B RI WT WD)",
+                    "product_price": 24300,
+                    "product_buy": "Buy Now"
+                },
+                {
+                    "id": 4,
+                    "product_image": "../assets/images/usha/fridge4.png",
+                    "product_title": "Usha 550 L Frost Free French Door Bottom Mount Convertible Refrigerator with Digital Inverter (Refined Inox, RF57A5032S9/TL)",
+                    "product_price": 59500,
+                    "product_buy": "Buy Now"
+                }
+            ],
+            "heater": [
+                {
+                    "id": 1,
+                    "product_image": "../assets/images/usha/heater1.png",
+                    "product_title": "Usha 15 L Storage Water Geyser (Emeta, WHITE & BLACK)",
+                    "product_price": 5100,
+                    "product_buy": "Buy Now"
+                },
+                {
+                    "id": 2,
+                    "product_image": "../assets/images/usha/heater2.png",
+                    "product_title": "Usha 6 L Gas Water Geyser (MAJESTY DUETTO, White)",
+                    "product_price": 6200,
+                    "product_buy": "Buy Now"
+                },
+                {
+                    "id": 3,
+                    "product_image": "../assets/images/usha/heater3.png",
+                    "product_title": "Havells 3 L Instant Water Geyser (Zio Pro, White, Gold)",
+                    "product_price": 3000,
+                    "product_buy": "Buy Now"
+                },
+                {
+                    "id": 4,
+                    "product_image": "../assets/images/usha/heater4.png",
+                    "product_title": "Usha 25 L Storage Water Geyser (QUANTUM, WHITE & ORANGE)",
+                    "product_price": 12100,
+                    "product_buy": "Buy Now"
+                }
+            ]
+        }
+    ]
+}

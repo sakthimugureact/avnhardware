@@ -1,0 +1,308 @@
+{
+  "kitchen": [
+    {
+      "id": 1,
+      "product_image": "../assets/images/kitchen/kitchen1.png",
+      "product_title": "Kitchen Sink",
+      "data": "sink"
+    },
+    {
+      "id": 2,
+      "product_image": "../assets/images/kitchen/kitchen2.png",
+      "product_title": "Handmade Kitchen Sinks",
+      "data": "handmade"
+    },
+    {
+      "id": 3,
+      "product_image": "../assets/images/kitchen/kitchen3.png",
+      "product_title": "Floor Drain",
+      "data": "floor"
+    },
+    {
+      "id": 4,
+      "product_image": "../assets/images/kitchen/kitchen4.png",
+      "product_title": "Quartz Kitchen Sink",
+      "data": "quartz"
+    },
+    {
+      "id": 5,
+      "product_image": "../assets/images/kitchen/kitchen5.png",
+      "product_title": "Faucets",
+      "data": "faucets"
+    },
+    {
+      "id": 6,
+      "product_image": "../assets/images/kitchen/kitchen6.png",
+      "product_title": "Kitchen Sink Accessories",
+      "data": "accessories"
+    }
+  ],
+  "sink": [
+    {
+      "id": 1,
+      "product_image": "../assets/images/home1.jpg",
+      "product_title": "Piano Waterfall Kitchen Sink (30 x 18 x 9 inches) with Pull-out Mixer Faucet & RO Tap",
+      "product_price": 1499,
+      "product_buy": "Buy Now"
+    },
+    {
+      "id": 2,
+      "product_image": "../assets/images/home2.jpg",
+      "product_title": "Sand Choco Quartz Double Bowl with Drainboard Kitchen Sink (45 x 20 x 9 Inches)",
+      "product_price": 4499,
+      "product_buy": "Buy Now"
+    },
+    {
+      "id": 3,
+      "product_image": "../assets/images/home3.jpg",
+      "product_title": "Crystal White Double Bowl with Drainboard Kitchen Sink (45 x 20 x 9 Inches)",
+      "product_price": 3499,
+      "product_buy": "Buy Now"
+    },
+    {
+      "id": 4,
+      "product_image": "../assets/images/home4.jpeg",
+      "product_title": "Choco Brown Quartz Double Bowl with Drainboard Kitchen Sink(45 x 20 x 9 Inches)",
+      "product_price": 2499,
+      "product_buy": "Buy Now"
+    }
+  ],
+  "handmade": [
+    {
+      "id": 1,
+      "product_image": "../assets/images/kitchen/homemade/1.jpeg",
+      "product_title": "Piano Waterfall Kitchen Sink (30 x 18 x 9 inches) with Pull-out Mixer Faucet & RO Tap",
+      "product_price": 2799,
+      "product_buy": "Buy Now"
+    },
+    {
+      "id": 2,
+      "product_image": "../assets/images/kitchen/homemade/2.jpeg",
+      "product_title": "Sand Choco Quartz Double Bowl with Drainboard Kitchen Sink (45 x 20 x 9 Inches)",
+      "product_price": 4499,
+      "product_buy": "Buy Now"
+    },
+    {
+      "id": 3,
+      "product_image": "../assets/images/kitchen/homemade/3.jpeg",
+      "product_title": "Crystal White Double Bowl with Drainboard Kitchen Sink (45 x 20 x 9 Inches)",
+      "product_price": 9999,
+      "product_buy": "Buy Now"
+    },
+    {
+      "id": 4,
+      "product_image": "../assets/images/kitchen/homemade/4.jpeg",
+      "product_title": "Choco Brown Quartz Double Bowl with Drainboard Kitchen Sink(45 x 20 x 9 Inches)",
+      "product_price": 5499,
+      "product_buy": "Buy Now"
+    }
+  ],
+  "floor": [
+    {
+      "id": 1,
+      "product_image": "../assets/images/home1.jpg",
+      "product_title": "Piano Waterfall Kitchen Sink (30 x 18 x 9 inches) with Pull-out Mixer Faucet & RO Tap",
+      "product_price": 1499,
+      "product_buy": "Buy Now"
+    },
+    {
+      "id": 2,
+      "product_image": "../assets/images/home2.jpg",
+      "product_title": "Sand Choco Quartz Double Bowl with Drainboard Kitchen Sink (45 x 20 x 9 Inches)",
+      "product_price": 4499,
+      "product_buy": "Buy Now"
+    },
+    {
+      "id": 3,
+      "product_image": "../assets/images/home3.jpg",
+      "product_title": "Crystal White Double Bowl with Drainboard Kitchen Sink (45 x 20 x 9 Inches)",
+      "product_price": 3499,
+      "product_buy": "Buy Now"
+    },
+    {
+      "id": 4,
+      "product_image": "../assets/images/home4.jpeg",
+      "product_title": "Choco Brown Quartz Double Bowl with Drainboard Kitchen Sink(45 x 20 x 9 Inches)",
+      "product_price": 2499,
+      "product_buy": "Buy Now"
+    }
+  ],
+  "quartz": [
+    {
+      "id": 1,
+      "product_image": "../assets/images/kitchen/quartz/1.jpeg",
+      "product_title": "Piano Waterfall Kitchen Sink (30 x 18 x 9 inches) with Pull-out Mixer Faucet & RO Tap",
+      "product_price": 1499,
+      "product_buy": "Buy Now"
+    },
+    {
+      "id": 2,
+      "product_image": "../assets/images/kitchen/quartz/2.jpeg",
+      "product_title": "Sand Choco Quartz Double Bowl with Drainboard Kitchen Sink (45 x 20 x 9 Inches)",
+      "product_price": 4499,
+      "product_buy": "Buy Now"
+    },
+    {
+      "id": 3,
+      "product_image": "../assets/images/kitchen/quartz/3.jpeg",
+      "product_title": "Crystal White Double Bowl with Drainboard Kitchen Sink (45 x 20 x 9 Inches)",
+      "product_price": 3499,
+      "product_buy": "Buy Now"
+    },
+    {
+      "id": 4,
+      "product_image": "../assets/images/kitchen/quartz/4.jpeg",
+      "product_title": "Choco Brown Quartz Double Bowl with Drainboard Kitchen Sink(45 x 20 x 9 Inches)",
+      "product_price": 2499,
+      "product_buy": "Buy Now"
+    }
+  ],
+  "faucets": [
+    {
+      "id": 1,
+      "product_image": "../assets/images/home1.jpg",
+      "product_title": "Piano Waterfall Kitchen Sink (30 x 18 x 9 inches) with Pull-out Mixer Faucet & RO Tap",
+      "product_price": 1499,
+      "product_buy": "Buy Now"
+    },
+    {
+      "id": 2,
+      "product_image": "../assets/images/home2.jpg",
+      "product_title": "Sand Choco Quartz Double Bowl with Drainboard Kitchen Sink (45 x 20 x 9 Inches)",
+      "product_price": 4499,
+      "product_buy": "Buy Now"
+    },
+    {
+      "id": 3,
+      "product_image": "../assets/images/home3.jpg",
+      "product_title": "Crystal White Double Bowl with Drainboard Kitchen Sink (45 x 20 x 9 Inches)",
+      "product_price": 3499,
+      "product_buy": "Buy Now"
+    },
+    {
+      "id": 4,
+      "product_image": "../assets/images/home4.jpeg",
+      "product_title": "Choco Brown Quartz Double Bowl with Drainboard Kitchen Sink(45 x 20 x 9 Inches)",
+      "product_price": 2499,
+      "product_buy": "Buy Now"
+    }
+  ],
+  "accessories": [
+    {
+      "id": 1,
+      "product_image": "../assets/images/kitchen/accessories/1.jpeg",
+      "product_title": "Piano Waterfall Kitchen Sink (30 x 18 x 9 inches) with Pull-out Mixer Faucet & RO Tap",
+      "product_price": 1499,
+      "product_buy": "Buy Now"
+    },
+    {
+      "id": 2,
+      "product_image": "../assets/images/kitchen/accessories/2.jpeg",
+      "product_title": "Sand Choco Quartz Double Bowl with Drainboard Kitchen Sink (45 x 20 x 9 Inches)",
+      "product_price": 4499,
+      "product_buy": "Buy Now"
+    },
+    {
+      "id": 3,
+      "product_image": "../assets/images/kitchen/accessories/3.jpeg",
+      "product_title": "Crystal White Double Bowl with Drainboard Kitchen Sink (45 x 20 x 9 Inches)",
+      "product_price": 3499,
+      "product_buy": "Buy Now"
+    },
+    {
+      "id": 4,
+      "product_image": "../assets/images/kitchen/accessories/4.jpeg",
+      "product_title": "Choco Brown Quartz Double Bowl with Drainboard Kitchen Sink(45 x 20 x 9 Inches)",
+      "product_price": 2499,
+      "product_buy": "Buy Now"
+    }
+  ],
+  "bathroom": [
+    {
+      "id": 1,
+      "product_image": "../assets/images/bathroom/b1.webp",
+      "product_title": "Kyari - PREMIUM 8 x 8 Ultra Slim Shower + EXTRA Heavy Arm Shower Complete Set Shower Head",
+      "product_price": 2499,
+      "product_buy": "Buy Now"
+    },
+    {
+      "id": 2,
+      "product_image": "../assets/images/bathroom/b2.webp",
+      "product_title": "M Y Iron Wall Shelf  (Number of Shelves - 1, Black)",
+      "product_price": 499,
+      "product_buy": "Buy Now"
+    },
+    {
+      "id": 3,
+      "product_image": "../assets/images/bathroom/b3.webp",
+      "product_title": "Adinath Creators Polished Rectangle mirror Bathroom Mirror  (Rectangle)",
+      "product_price": 799,
+      "product_buy": "Buy Now"
+    },
+    {
+      "id": 4,
+      "product_image": "../assets/images/bathroom/b4.webp",
+      "product_title": "iSTAR iSTAR Stainless Steel Towel Hanger for Bathroom/Bar/Towel Rod/Stand/Bathroom Accessories (24 Inch)",
+      "product_price": 450,
+      "product_buy": "Buy Now"
+    },
+    {
+      "id": 5,
+      "product_image": "../assets/images/bathroom/b5.webp",
+      "product_title": "Water Science CLEO Tap Filter for Hard Water (Municipal/Metro Water) Tap Mount Water Filter",
+      "product_price": 1450,
+      "product_buy": "Buy Now"
+    },
+    {
+      "id": 6,
+      "product_image": "../assets/images/bathroom/b6.webp",
+      "product_title": "Kyari - Hand Shower Complete Set - For Bathroom Shower Head",
+      "product_price": 530,
+      "product_buy": "Buy Now"
+    }
+  ],
+  "toilet":[
+    {
+      "id": 1,
+      "product_image": "../assets/images/toilet/c1.webp",
+      "product_title": "clayplus Platinum Ceramic Western Toilet/Water Closet/Commode With Soft Close Toilet Seat PREMIUM GRADE",
+      "product_price": 5530,
+      "product_buy": "Buy Now"
+    },
+    {
+      "id": 2,
+      "product_image": "../assets/images/toilet/c2.webp",
+      "product_title": "MoonWhite (52x42x25 CM) Orrisa Pan 20 Indian Commode  (White)",
+      "product_price": 2030,
+      "product_buy": "Buy Now"
+    },
+    {
+      "id": 3,
+      "product_image": "../assets/images/toilet/c3.webp",
+      "product_title": "Impulse by Plantex Ceramic Rimless Wall Hung Western Commode/Toilet & Soft Close Toilet Seat-P Trap (APS-775-CUTE) Western Commode  (Ocean)",
+      "product_price": 6930,
+      "product_buy": "Buy Now"
+    },
+    {
+      "id": 4,
+      "product_image": "../assets/images/toilet/c4.webp",
+      "product_title": "Dhasara Household Rubber Dishwashing Gloves, Kitchen,Painting,Washing,Gardening,Pet Care Wet and Dry Disposable Glove Set  (Free Size Pack of 2)",
+      "product_price": 230,
+      "product_buy": "Buy Now"
+    },
+    {
+      "id": 5,
+      "product_image": "../assets/images/toilet/c5.webp",
+      "product_title": "Soulfresh Sanicube, Urinal Balls, Air Freshener, Shoe Rack, Sanicubes Blocks  (10 x 200 g)",
+      "product_price": 600,
+      "product_buy": "Buy Now"
+    },
+    {
+      "id": 6,
+      "product_image": "../assets/images/toilet/c6.webp",
+      "product_title": "Parryware Slimline utsav Tip Top Polypropylene Cistern ( 45x13x30.2cm ) Single Flush Tank  (White 6 L)",
+      "product_price": 1290,
+      "product_buy": "Buy Now"
+    }
+  ]
+}
